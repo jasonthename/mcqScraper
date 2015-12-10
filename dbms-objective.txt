@@ -1,0 +1,437 @@
+
+
+multiple-choice-questions-of-dbms-set-6
+
+6-1. The minimal set of super key is called
+A. Primary key
+B. Secondary key
+C. Candidate key
+D. Foreign key
+Answer: C 
+
+6-2. A relation that has no partial dependencies is in which normal form
+A. First
+B. Second      
+C. Third
+D. BCNF
+Answer: B 
+
+6-3. A functional dependency between two or more non-key attributes is called
+A. Transitive dependency
+B. Partial transitive dependency
+C. Functional dependency
+D. Partial functional dependency
+Answer: A 
+
+6-4. A logical description of some portion of database that is required by a user to perform task is called as
+A. System View
+B. User View
+C. Logical View
+D. Data View
+Answer: B 
+
+6-5. ______________ is a classical approach to database design?
+A. Left – Right approach
+B. Right – Left approach
+C. Top – Down approach
+D. Bottom – Up approach 
+Answer: C 
+
+6-6. _____________ refers to the correctness and completeness of the data in a database?
+A. Data security
+B. Data integrity
+C. Data constraint
+D. Data independence
+Answer: B 
+
+6-7. A table that displays data redundancies yields ____________ anomalies
+A. Insertion
+B. Deletion
+C. Update
+D. All of the above
+Answer: D 
+
+6-8. A lock that allows concurrent transactions to access different rows of the same table is known as a
+A. Field-level lock
+B. Row-level lock
+C. Table-level lock
+D. Database-level lock 
+Answer: A 
+
+6-9. A type of query that is placed within a WHERE or HAVING clause of another query is called
+A. Super query
+B. Sub query
+C. Master query
+D. Multi-query
+Answer: B 
+
+6-10. A transaction completes its execution is said to be
+A. Saved
+B. Loaded
+C. Rolled
+D. Committed
+Answer: D
+
+
+multiple-choice-questions-of-dbms-set-5
+
+5-1. Which of the following option is use to retrieval of data?
+a. Stack
+b. Data Structure
+c. Linked list
+d. Query
+Answer: d 
+
+5-2. ODBC stands for ______
+a. Offline database connection
+b. Oriented database connection Â  Â  Â 
+c. Open database connection
+d. None of above
+Answer: c 
+
+5-3. Which algebra is widely used in DBMS?
+a. Relational algebra
+b. Arithmetic algebra
+c. Both
+d. None
+Answer: a 
+
+5-4. Which of the following is an unary operation?
+a. Selection operation
+b. Generalized selection
+c. Primitive operation
+d. Projection operation
+Answer: b 
+
+5-5. Which SQL Query is use to remove a table and all its data from the database?
+a. Create Table
+b. Alter Table
+c. Drop Table
+d. None of these
+Answer: c 
+
+5-6. In precedence of set operators the expression is evaluated from:
+a. Left to Left
+b. Left to Right
+c. Right to Right
+d. Right to Left
+Answer: b 
+
+5-7. In DBMS FD stands for _______
+a. Facilitate data
+b. Functional data
+c. Facilitate dependency
+d. Functional dependency
+Answer: d 
+
+5-8. How many types of keys in Database Design?
+a. Candidate key
+b. Primary key
+c. Foreign key
+d. All of these
+Answer: d 
+
+5-9. Which of the following is based on Multi Valued Dependency?
+a. First
+b. Second
+c. Third
+d. Fourth
+Answer: d 
+
+5-10. Which of the following is the structure of the Database?
+a. Table
+b. Schema
+c. Relation
+d. None of these
+Answer: b
+
+
+multiple-choice-questions-of-dbms-set-4
+
+4-1. which of the following is not an Aggregate function?
+A. Min
+B. Max
+C. Select
+D. Avg
+Answer: C 
+
+4-2. The attribute that can be divided into other attributes is called
+A. Simple Attribute
+B. Composite Attribute      
+C. Multi-valued Attribute
+D. Derived Attribute
+Answer: B 
+
+4-3. In an Entity-Relationship Diagram “Ellipses” represents
+A. Attributes
+B. Weak entity set
+C. Relationship sets
+D. Multi-valued attributes
+Answer: A 
+
+4-4. In an Entity-Relationship Diagram “Diamonds” represents
+A. Attributes
+B. Multi-valued attributes
+C. Weak entity set
+D. Relationship sets
+Answer: D 
+
+4-5. What is ACID properties of Transactions?
+A. Atomicity, Consistency, Isolation, Database
+B. Atomicity, Consistency, Isolation, Durability
+C. Atomicity, Consistency, Inconsistent, Durability
+D. Automatically, Concurrency, Isolation, Durability
+Answer: B 
+
+4-6. If every non-key attribute is functionally dependent on the primary key, the relation will be in 
+A. First Normal Form
+B. Second Normal Form
+C. Third Normal Form
+D. Fourth Formal Form
+Answer: C 
+
+4-7. Database locking concept is used to solve the problem of 
+A. Lost Update
+B. Uncommitted Dependency
+C. Inconsistent Data
+D. All of the above 
+Answer: D 
+
+4-8. UML is stands for
+A. Universal Modeling Language
+B. Unified Modeling Language
+C. United Modeling Language
+D. Uni Modeling Language
+Answer: B 
+
+4-9. Data Manipulation Language (DML) is not to
+A. Create information table in the Database
+B. Insertion of new information into the Database
+C. Deletion of information in the Database
+D. Modification of information in the Database
+Answer: A 
+
+4-10. Which of the following in true regarding Referential Integrity?
+A. Every primary-key value must match a primary-key value in an associated table
+B. Every primary-key value must match a foreign-key value in an associated table
+C. Every foreign-key value must match a primary-key value in an associated table
+D. Every foreign-key value must match a foreign-key value in an associated table
+Answer: C
+
+
+multiple-choice-questions-of-dbms-set-3
+
+3-1. Who proposed the relational model?
+A. Bill Gates
+B. E.F. Codd
+C. Herman Hollerith
+D. Charles Babbage
+Answer: B 
+
+3-2. Set of premitted values of each attribute is called
+A. Domain
+B. Tuple            
+C. Relation
+D. Schema
+Answer: A 
+
+3-3. Which of the following in true regarding Null Value?
+A. Null = 0
+B. Null  0
+D. Null  0 
+Answer: D 
+
+3-4. Logical design of database is called
+A. Database Instance
+B. Database Snapshot
+C. Database Schema
+D. All of the above
+Answer: C 
+
+3-5. Snapshot of the dta in the database at a given instant of time is called
+A. Database Schema
+B. Database Instance
+C. Database Snapshot
+D. All of the above
+Answer: B 
+
+3-6. Which of the following is not Unary operation?
+A. Select
+B. Project
+C. Rename
+D. Union 
+Answer: D 
+
+3-7. Which of the following is not binary operation?
+A. Union
+B. Project
+C. Set Difference
+D. Cartesian Product
+Answer: B 
+
+3-8. Which of the following is correct regarding Aggregate functions?
+A. it takes a list of values and return a single values as result
+B. it takes a list of values and return a list of values as result
+C. it takes a single value and returns a list of values as result
+D. it takes a single value and returns a single value as result
+Answer: A 
+
+3-9. The Primary key must be 
+A. Non Null
+B. Unique
+C. Option A or B
+D. Option A and B 
+Answer: D 
+
+3-10. A command to remove a relation from an SQL database
+A. Delete table <table name>
+B. Drop table <table name>
+C. Erase table <table name>
+D. Alter table <table name>
+Answer: B
+
+
+multiple-choice-questions-of-dbms-set-2
+
+2-1. Which of the following represents a relationship among a set of values.
+A. A Row
+B. A Table
+C. A Field
+D. A Column
+Answer: A 
+
+2-2. Column header is refer as 
+A. Table
+B. Relation           
+C. Attributes
+D. Domain
+Answer: C 
+
+2-3. A Relation is a
+A. Subset of a Cartesian product of a list of attributes
+B. Subset of a Cartesian product of a list of domains
+C. Subset of a Cartesian product of a list of tuple
+D. Subset of a Cartesian product of a list of relations
+Answer: B 
+
+2-4. In mathematical term Table is referred as
+A. Relation
+B. Attribute
+C. Tuple
+D. Domain
+Answer: A 
+
+2-5. In mathematical term Row is referred as
+A. Relation
+B. Attribute
+C. Tuple
+D. Domain
+Answer: C 
+
+2-6. _______ allow us to identify uniquely a tuple in the relation.
+A. Superkey
+B. Domain
+C. Attribute
+D. Schema
+Answer: A 
+
+2-7. Minimal Superkeys are called
+A. Schema keys
+B. Candidate keys
+C. Domain keys
+D. Attribute keys
+Answer: B 
+
+2-8. Which of the following is not Modification of the Database
+A. Deletion
+B. Insertion
+C. Sorting
+D. Updating
+Answer: C 
+
+2-9. Which of the following is Relation-algebra Operation
+A. Select
+B. Union
+C. Rename
+D. All of the above 
+Answer: D 
+
+2-10. Which of the following in not Outer join?
+A. Left outer join
+B. Right outer join
+C. Full outer join
+D. All of the above 
+Answer: D
+
+
+multiple-choice-questions-of-dbms-set-1
+
+1-1. A Database Management System (DBMS) is
+A. Collection of interrelated data
+B. Collection of programs to access data
+C. Collection of data describing one particular enterprise
+D. All of the above
+Answer: D 
+
+1-2. Which of the following is not a level of data abstraction?
+A. Physical Level
+B. Critical Level      
+C. Logical Level
+D. View Level
+Answer: B 
+
+1-3. Disadvantages of File systems to store data is:
+A. Data redundancy and inconsistency
+B. Difficulty in accessing data
+C. Data isolation
+D. All of the above
+Answer: D 
+
+1-4. In an Entity-Relationship Diagram Rectangles represents 
+A. Entity sets
+B. Attributes
+C. Database
+D. Tables
+Answer: A 
+
+1-5. Which of the following is not a Storage Manager Component?
+A. Transaction Manager
+B. Logical Manager
+C. Buffer Manager
+D. File Manager
+Answer: B 
+
+1-6. Data Manipulation Language enables users to 
+A. Retrieval of information stored in database
+B. Insertion of new information into the database
+C. Deletion of information from the database
+D. All of the above
+Answer: D 
+
+1-7. Which of the following is not an Schema?
+A. Database Schema
+B. Physical Schema
+C. Critical Schema
+D. Logical Schema
+Answer: C 
+
+1-8. Which of the following is Database Language?
+A. Data Definition Language
+B. Data Manipulation Language
+C. Query Language
+D. All of the above
+Answer: D 
+
+1-9. Which of the following in not a function of DBA?
+A. Network Maintenance
+B. Routine Maintenance
+C. Schema Definition
+D. Authorization for data access
+Answer: A 
+
+1-10. Which of the following is a Data Model?
+A. Entity-Relationship model
+B. Relational data model
+C. Object-Based data model
+D. All of the above
+Answer: D

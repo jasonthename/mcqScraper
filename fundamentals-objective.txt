@@ -1,0 +1,874 @@
+
+
+multiple-choice-questions-of-fundamentals-of-computer-set-12
+
+12-1. All Computers (Mainframe, Mini or Micro) must have
+A. ALU
+B. Control Unit
+C. Primary Storage
+D. All of above
+Answer: D 
+
+12-2. In Computer System Memory management operations are performed by
+A. User
+B. Hardware         
+C. Programmer
+D. Operating system
+Answer: D 
+
+12-3. Computer Model IBM 1401 is
+A. First Generation Computer
+B. Second Generation Computer
+C. Third Generation Computer
+D. Fourth Generation Computer
+Answer: B 
+
+12-4. In computing and electronic systems BCD is abbreviation of
+A. Binary Coded Decimal
+B. Binary Coded Digit
+C. Bit Coded Decimal
+D. Bit Coded Digit
+Answer: A 
+
+12-5. Descending Order of a data Hierarchy is 
+A. Database – File – Record – Fields – Bytes – Bit
+B. Database – File – Record – Fields – Bit – Bytes
+C. Database – Record – File – Fields – Bytes – Bit
+D. Database – Record – Fields – File – Bytes – Bit
+Answer: A 
+
+12-6. Dedicated Computer is A
+A. Computer having multiple Monitors
+B. Computer assigned one task at a time
+C. Computer having multiple Operating Systems
+D. Computer is designed to use by single person
+Answer: B 
+
+12-7. What is the second generation computers made?
+A. Resistors
+B. Transistors
+C. Vacuum tubes
+D. Integrated Circuits
+Answer: B 
+
+12-8. Which of the following parameters decided the performance of the memory?
+A. Latency
+B. Cycle time
+C. Transfer rate
+D. All of the above
+Answer: D 
+
+12-9. Which of the following is an important attribute of RAM memory?
+A. Volatile
+B. Non-Volatile
+C. Random access
+D. Sequential access 
+Answer: A 
+
+12-10. Data access time is depends on
+A. Seek time
+B. Rotational delay
+C. Operating frequency
+D. All of the above
+Answer: D
+
+
+multiple-choice-questions-of-fundamentals-of-computer-set-11
+
+11-1. Which Disk Format can access by MS-Dos 6.0?
+A. OSX
+B. FAT
+C. NTFS
+D. EXT2
+Answer: B 
+
+11-2. In which mode Windows starts with only the core drivers & services?
+A. Safe Mode
+B. Quick Mode        
+C. Normal Mode
+D. Repair Mode
+Answer: A 
+
+11-3. Microsoft Windows7 is not possible to installed on FAT32 Disk Format.
+A. True
+B. False 
+Answer: A 
+
+11-4. A series of MS-DOS Commands can be performed by 
+A. Typing all the commands Prompt in series by adding hyphen (-)
+B. Copying all the commands into single Directory
+C. Creating BAT File
+D. This is not possible in MS-Dos
+Answer: C 
+
+11-5. While starting Window XP/7 extra booting options can be shown by pressing
+A. F1
+B. F8
+C. F9
+D. F12
+Answer: B 
+
+11-6. In Computer Architecture a Bus is _________
+A. a collection of various software
+B. a collection of various computers
+C. a collection of shared communication wires
+D. a collection of chairs where the user sits
+Answer: C 
+
+11-7. The information stored in storage devices can be accessed in _________
+A. RAM access & ROM access
+B. Memory access & Disk access
+C. Random access & shift access
+D. Sequential access & Direct access
+Answer: D 
+
+11-8. The acronym of WORM in a Computer System is 
+A. Write Only Read Only
+B. Write Once Read Many
+C. Write Only Read Memory
+D. Write Once Read Memory
+Answer: B 
+
+11-9. Which of the following is the most commonly used encoding standard of Unicode?
+A. UTF-6
+B. UTF-7
+C. UTF-8
+D. UTF-9
+Answer: C 
+
+11-10. To “Debug” the System means ________ 
+A. Find the Correct Software
+B. Find the Correct Hardware
+C. Find and Install correct System
+D. Find and Correct Errors on System
+Answer: D
+
+
+multiple-choice-questions-of-fundamentals-of-computer-set-10
+
+10-1 What is Unicode?
+A. Standard Font
+B. Software
+C. Character Encoding System
+D. Keyboard Layout
+Answer: C 
+
+10-2 In Computer System Scanner is ______ Device?
+A. Input
+B. Output        
+C. Both
+D. None
+Answer: A 
+
+10-3 Which of the following memory has the shortest access time?
+A. Virtual Memory
+B. Cache Memory
+C. External Memory
+D. Register
+Answer: D 
+
+10-4 Speed of Laser Printer is measured in
+A. LPM
+B. PPM
+C. DPI
+D. DPS
+Answer: B 
+
+10-5 Which of the following device cannot be shared in Network?
+A. CD Drive
+B. Printer
+C. Mouse
+D. Hard Disk
+Answer: C 
+
+10-6 Which of the following is not Computer Hardware?
+A. Mouse
+B. Monitor
+C. Antivirus
+D. Printer
+Answer: C 
+
+10-7 What is the main purpose of the secondary storage device?
+A. To increase the speed of Computer
+B. To Install Operating System
+C. To Networking
+D. To Store Data
+Answer: D 
+
+10-8 Which of the following memories needs refresh?
+A. DRAM
+B. SRAM
+C. ROM
+D. All of above
+Answer: A 
+
+10-9 A Dumb terminal has
+A. Processor and Keyboard
+B. Processor and Hard Disk
+C. Keyboard and Hard Disk
+D. Keyboard and Screen
+Answer: D 
+
+10-10 Who invented Integrated Circuit (IC)?
+A. Herman Hollerith
+B. Jack Kilby
+C. Semen Korsakov
+D. Bill Gates
+Answer: B
+
+
+multiple-choice-questions-of-fundamentals-of-computer-set-9
+
+9-1  Which of the following Language that Computer can Understand & Execute?
+A.  Machine Language
+B.  C Programming Language
+C.  Java Programming Language
+D.  None of the Above
+Answer: A 
+
+9-2  Who is credited for using punch cards to control patterns of a weaving machine?
+A.  Blaise Pascal
+B.  Herman Hollerith        
+C.  Jacquard
+D.  Charles Babbage
+Answer: C 
+
+9-3  Dedicated Computer means
+A. Doesn’t have OS
+B. Used by single person
+C. Assigned to one and only one task
+D. All of Above
+Answer: C 
+
+9-4  Computer Keyboard can be classified as __________ Device?
+A.  Memory
+B.  Input
+C.  Output
+D.  Storage
+Answer: B 
+
+9-5  Physical connection between Microprocessor Memory and other parts is called _________
+A.  Path
+B.  Hub
+C.  Address bus
+D.  None of the above
+Answer: C 
+
+9-6  Shortcut Notation for groups of four Binary Digits is called ____________ Number System.
+A.  Unicode
+B.  Decimal
+C.  Binary
+D.  Hexadecimal
+Answer: D 
+
+9-7  What is the full form of AT in the IBM PC-AT?
+A.  Applied Technology
+B.  Advance Technology
+C.  Additional Technology
+D.  None of the Above
+Answer: B 
+
+9-8  ____________ has the shortest access times.
+A.  Cache Memory
+B.  Virtual Memory
+C.  Secondary Memory
+D.  All of the Above
+Answer: A 
+
+9-9  In Computer terminology ‘CAD’ is stands for
+A.  Computer And Design
+B.  Computer Algorithm in Design
+C.  Computer Aided Design
+D.  None of the above
+Answer: C 
+
+9-10  Which of the following is not an Input Device?
+A.  Touch Screen
+B.  Optical Scanners
+C.  Touch Pad
+D.  Mouse Pad
+Answer: D
+
+
+multiple-choice-questions-of-fundamentals-of-computer-set-8
+
+8-1.  MICR stands for
+A.  Magnetic Ink Character Reader
+B.  Magnetic Ink Code Reader
+C.  Magnetic Ink Case Reader
+D.  None of the above
+Answer: A 
+
+8-2.  Which access method is used to access cassette tape?
+A.  Direct
+B.  Sequential        
+C.  Both of the above
+D.  None of the above
+Answer: B 
+
+8-3.  EEPROM stands for
+A.  Electrically Erasable Programmable Read Only Memory
+B.  Electronic Erasable Programmable Read Only Memory
+C.  Easily Erasable Programmable Read Only Memory
+D.  Easily Erasable Programmable Read Only Memory
+Answer: A 
+
+8-4.  Which of the following memories need refresh?
+A.  SRAM
+B.  DRAM
+C.  ROM
+D.  All of the above
+Answer: B 
+
+8-5.  ASCII stands for
+A.  American Standard Code for Information Interchange
+B.  American Scientific Code for International Interchange
+C.  American Standard Code for Intelligence Interchange
+D.  American Scientific Code for Information Interchange
+Answer: A 
+
+8-6.  The output quality of a printer is measured by
+A.  Dot per sq. inch
+B.  Dot per inch
+C.  Dots printed per unit time
+D.  All of the above
+Answer: B 
+
+8-7.  Main storage is also called
+A.  Accumulator
+B.  Control Unit
+C.  Register Unit
+D.  Memory
+Answer: D 
+
+8-8.  Which is valid statement
+A.  1 KB = 1024 Bytes
+B.  1 MB = 1024 Bytes
+C.  1 KB = 1000 Bytes
+D.  1 MB = 1000 Bytes
+Answer: A 
+
+8-9.  After copying the content how many times can you paste?
+A.  1
+B.  16
+C.  32
+D.  Many
+Answer: D 
+
+8-10.  1 nibble equals to
+A.  1 bits
+B.  2 bits
+C.  4 bits
+D.  8 bits
+Answer: C
+
+
+multiple-choice-questions-of-fundamentals-of-computer-set-7
+
+7-1. The Second Generation Computer was based on ________.
+A. Vacuum Tube
+B. Silicon Chips
+C. Transistor
+D. Bio Chips
+Answer: C 
+
+7-2. The Third Generation Computer was made with ________.
+A. Vacuum Tube
+B. Discrete Components
+C. IC
+D. Bio Chips
+Answer: C 
+
+7-3. The BIOS is the abbreviation of ________.
+A. Basic Input Output System
+B. Best Input Output System
+C. Basic Input Output Symbol
+D. Base Input Output System
+Answer: A 
+
+7-4. What do you call a single point on a computer screen?
+A. Cell
+B. Element
+C. Pixel
+D. Bit
+Answer: C 
+
+7-5. RJ45 UTP cable has ________ Cables.
+A. 2 pair
+B. 3 pair
+C. 4 pair
+D. 5 pair
+Answer: C 
+
+7-6. Basic is ________ language.
+A. a procedural
+B. an object oriented
+C. both A and B
+D. none of the above
+Answer: A 
+
+7-7. In ________ mode, the communication channel is used in both directions at the same time?
+A. Full-duplex
+B. Simplex
+C. Half-duplex
+D. None of the above
+Answer: A 
+
+7-8. How was the generation of computer classified?
+A. by the device used in memory & processor
+B. by the speed of computer
+C. by the model of the computer
+D. by the accuracy of computer
+Answer: A 
+
+7-9.    Who invented Analytical engine?
+A. Blaise Pascal
+B. George Bool
+C. Charles Babbage
+D. Dr. Herman Hollerith
+Answer: C 
+
+7-10. Through which device the main components of the computer communicate with each other?
+A. Keyboard
+B. System Bus
+C. Monitor
+D. Memory
+Answer: B
+
+
+multiple-choice-questions-of-fundamentals-of-computer-set-6
+
+6-1. What do you call the programs that are used to find out possible faults and their causes?
+A. Operating system extensions
+B. Cookies
+C. Diagnostic software
+D. Boot diskettes
+Answer: C 
+
+6-2. Which programming languages are classified as low level languages?
+A. Basic, COBOL, FORTRAN
+B. Prolog 2, Expert Systems
+C. Knowledge based Systems
+D. Assembly Languages
+Answer: D 
+
+6-3. Which of the following is not anti-viruses software?
+A. NAV
+B. F-Prot
+C. Oracle
+D. McAfee
+Answer: C 
+
+6-4. Which device is required for the Internet connection?
+A. Joystick
+B. Modem
+C. CD Drive
+D. NIC Card
+Answer: B 
+
+6-5. What does DMA stand for?
+A. Distinct Memory Access
+B. Direct Memory Access
+C. Direct Module Access
+D. Direct Memory Allocation
+Answer: B 
+
+6-6. Which of the following is a storage device?
+A. Tape
+B. Hard Disk
+C. Floppy Disk
+D. All of the above
+Answer: D 
+
+6-7. When did John Napier develop logarithm?
+A. 1416
+B. 1614
+C. 1641
+D. 1804
+Answer: B 
+
+6-8. A normal CD-ROM usually can store up to __________data?
+A. 680 KB
+B. 680 Bytes
+C. 680 MB
+D. 680 GB
+Answer: C 
+
+6-9. MIS is designed to provide information needed for effective decision making by?
+A. Consumers
+B. Workers
+C. Foremen
+D. Managers
+Answer: D 
+
+6-10. What is a light pen?
+A. Mechanical Input device
+B. Optical input device
+C. Electronic input device
+D. Optical output device
+Answer: B
+
+
+multiple-choice-questions-of-fundamentals-of-computer-set-5
+
+5-1. Punched cards were first introduced by
+A. Powers
+B. Pascal
+C. Jacquard
+D. Herman Hollerith
+Answer: D 
+
+5-2. Computers built before the First Generation of computers were:
+A. Mechanical
+B. Electro-mechanical Â Â 
+C. Electrical
+D. None of these
+Answer: B 
+
+5-3. Word length of a Personal Computer is ___
+A. 4 bits
+B. 8 bits
+C. 16 bits
+D. 64 bits
+Answer: B 
+
+5-4. Size of the primary memory of a PC ranges between
+A. 2KB to 8KB
+B. 64KB & 256KB
+C. 256KB & 640KB
+D. None of these
+Answer: C 
+
+5-5. CPU speed of a personal computer is
+A. 32 KIPS
+B. 100 KIPS
+C. 1 MIPS
+D. None of these
+Answer: B 
+
+5-6. Programs are executed on the basis of a priority number in a
+A. Batch processing system
+B. Multiprogramming
+C. Time sharing
+D. None of these
+Answer: B 
+
+5-7. Cursor is a ____
+A. Pixel
+B. Thin blinking line
+C. Pointing device
+D. None of these
+Answer: B 
+
+5-8. Operating system, editors, and debuggers comes under?
+A. System Software
+B. Application Software
+C. Utilities
+D. None of the above
+Answer: A 
+
+5-9. What is the first stage in software development?
+A. Specification and design
+B. Testing
+C. System Analysis
+D. Maintenance
+Answer: C 
+
+5-10. What is System Analysis?
+A. The design of the screen the user will see and use to enter or display data
+B. System analysis defines the format and type of data the program will use
+C. System Analysis involves creating formal model of the problem to be solved
+D. None of the above
+Answer: C
+
+
+multiple-choice-questions-of-fundamentals-of-computer-set-4
+
+4-1. Primary memory stores
+A. Data alone
+B. Programs alone
+C. Results alone
+D. All of these
+Answer: D 
+
+4-2. EPROM can be used for
+A. Erasing the contents of ROM
+B. Reconstructing the contents of ROM Â  Â 
+C. Erasing and reconstructing the contents of ROM
+D. Duplicating ROM
+Answer: C 
+
+4-3. Which device can understand difference between data & programs?
+A. Input device
+B. Output device
+C. Memory
+D. Microprocessor
+Answer: D 
+
+4-4. The contents of information are stored in
+A. Memory data register
+B. Memory address register
+C. Memory arithmetic registers
+D. Memory access register
+Answer: A 
+
+4-5. Memory unit is one part of
+A. Input device
+B. Control unit
+C. Output device
+D. Central Processing Unit
+Answer: D 
+
+4-6. Algorithm and Flow chart help us to
+A. Know the memory capacity
+B. Identify the base of a number system
+C. Direct the output to a printer
+D. Specify the problem completely and clearly
+Answer: D 
+
+4-7. Which of the following is not a valid size of a Floppy Disk?
+A. 8″
+B. 5 1/4″
+C. 3 1/2″
+D. 5 1/2″
+Answer: D 
+
+4-8. The basic operations performed by a computer are
+A. Arithmetic operation
+B. Logical operation
+C. Storage and relative
+D. All the above
+Answer: D 
+
+4-9. The earliest calculating devices are
+A. Abacus
+B. Clock
+C. Difference Engine
+D. None of these
+Answer: A 
+
+4-10. Who built the first Mechanical Calculator
+A. Joseph Marie Jacquard
+B. John Mauchly
+C. Blaise Pascal
+D. Howard Aiken
+Answer: C
+
+
+multiple-choice-questions-of-fundamentals-of-computer-set-3
+
+3-1. Which device is used as the standard pointing device in a Graphical User Environment?
+A. Â Keyboard
+B. Â Mouse
+C. Â Joystick
+D. Â Track ball
+Answer: B 
+
+3-2. Which number system is usually followed in a typical 32-bit computer? 
+A. Â 2
+B. Â 10 Â  Â Â 
+C. Â 16
+D. Â 32
+Answer: A 
+
+3-3. Which number system is usually followed in a typical 32-bit computer?
+A. Â Binary
+B. Â Decimal
+C. Â Hexadecimal
+D. Â Octal
+Answer: A 
+
+3-4. Which of the following is not an output device?
+A. Â Scanner
+B. Â Printer
+C. Â Flat Screen
+D. Â Touch Screen
+Answer: A 
+
+3-5. Which of the following devices have a limitation that we can only store information to it but cannot erase or modify it?
+A. Â Floppy Disk
+B. Â Hard Disk
+C. Â Tape Drive
+D. Â CDROM
+Answer: D 
+
+3-6. Which technology is used in Compact disks?
+A. Â Mechanical
+B. Â Electrical
+C. Â Electro Magnetic
+D. Â Laser
+Answer: D 
+
+3-7. Which of the following storage devices can store maximum amount of data?
+A. Â Floppy Disk
+B. Â Hard Disk
+C. Â Compact Disk
+D. Â Magneto Optic Disk
+Answer: B 
+
+3-8. Which of the following is the largest manufacturer of Hard Disk Drives?
+A. Â IBM
+B. Â Seagate
+C. Â Microsoft
+D. Â 3M
+Answer: B 
+
+3-9. The programs which are as permanent as hardware and stored in ROM is known as
+A. Â Hardware
+B. Â Software
+C. Â Firmware
+D. Â ROM ware
+Answer: C 
+
+3-10. Memory is made up of
+A. Â Set of wires
+B. Â Set of circuits
+C. Â Large number of cells
+D. Â All of these
+Answer: C
+
+
+multiple-choice-questions-of-fundamentals-of-computer-set-2
+
+2-1. Which is a semi conductor memory?
+A.  Dynamic
+B.  Static
+C.  Bubble
+D.  Both a & b
+Answer: D 
+
+2-2. Which of the following is a read only memory storage device?
+A.  Floppy Disk
+B.  CD-ROM     
+C.  Hard Disk
+D.  None of these
+Answer: B 
+
+2-3. Which of the following is a programming language?
+A.  Lotus
+B.  Pascal
+C.  MS-Excel
+D.  Netscape
+Answer: B 
+
+2-4. What do you call the translator which takes assembly language program as input & produce machine language code as output?
+A.  Compiler
+B.  Interpreter
+C.  Debugger
+D.  Assembler
+Answer: D 
+
+2-5. What is a compiler?
+A.  A compiler does a conversion line by line as the program is run
+B.  A compiler converts the whole of a higher level program code into machine code in one step
+C.  A compiler is a general purpose language providing very efficient execution
+D.  None of the above
+Answer: B 
+
+2-6. What is an interpreter?
+A.  An interpreter does the conversion line by line as the program is run
+B.  An interpreter is the representation of the system being designed
+C.  An interpreter is a general purpose language providing very efficient execution
+D.  None of the above
+Answer: B 
+
+2-7. What are the stages in the compilation process?
+A.  Feasibility study, system design and testing
+B.  Implementation and documentation
+C.  Lexical Analysis, syntax analysis, and code generation
+D.  None of the above
+Answer: C 
+
+2-8. A Compiler is ____
+A.  a combination of computer hardware
+B.  a program which translates from one high-level language to another
+C.  a program which translates from one high-level to a machine level language
+D.  None of these
+Answer: C 
+
+2-9. When a key is pressed on the keyboard, which standard is used for converting the keystroke into the corresponding bits?
+A.  ANSI
+B.  ASCII
+C.  EBCDIC
+D.  ISO
+Answer: A 
+
+2-10. A Pixel is __________
+A.  A computer program that draws picture
+B.  A picture stored in secondary memory
+C.  The smallest resolvable part of a picture
+D.  None of these
+Answer: C
+
+
+multiple-choice-questions-of-fundamentals-of-computer-set-1
+
+1-1. FORTRAN programming language is more suitable for ……
+A. Business Applications
+B. Marketing Applications
+C. Scientific Applications
+D. None of the above
+Answer: C 
+
+1-2. Mostly which of the following device is used to carry user files?
+A. Floppy Disk
+B. Hard Disk    
+C. RAM
+D. CDROM
+Answer: A 
+
+1-3. Which device is used to backup the data?
+A. Floppy Disk
+B. Tape
+C. Network Drive
+D. All of the above
+Answer: D 
+
+1-4. In order to play and hear sound on a computer, one needs:
+A. a sound card and speakers
+B. a microphone
+C. all of them required
+D. none of them required
+Answer: A 
+
+1-5. Which of the following are the cheapest memory devices in terms of Cost/Bit?
+A. Semiconductor memories
+B. Magnetic Disks
+C. Compact Disks
+D. Magnetic Tapes
+Answer: C 
+
+1-6. In a computer _____ is capable to store single binary bit.
+A. Capacitor
+B. Flip flop
+C. Register
+D. Inductor
+Answer: B 
+
+1-7. A set of flip flops integrated together is called ____
+A. Counter
+B. Adder
+C. Register
+D. None of the above
+Answer: C 
+
+1-8. Which of the following are the best units of data on an external storage device?
+A. Bits
+B. Bytes
+C. Hertz
+D. Clock cycles
+Answer: B 
+
+1-9. A register organized to allow to move left or right operations is called a ____
+A. Counter
+B. Loader
+C. Adder
+D. Shift register
+Answer: D 
+
+1-10. Which of the following have the fastest access time?
+A. Semiconductor Memories
+B. Magnetic Disks
+C. Magnetic Tapes
+D. Compact Disks
+Answer: A

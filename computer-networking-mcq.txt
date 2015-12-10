@@ -1,0 +1,438 @@
+
+
+multiple-choice-questions-of-computer-networking-set-6
+
+6-1. What is the IP Address range of APIPA?
+A. 169.254.0.1 to 169.254.0.254
+B. 169.254.0.1 to 169.254.0.255
+C. 169.254.0.1 to 169.254.255.254
+D. 169.254.0.1 to 169.254.255.255
+Answer: C 
+
+6-2. Which of the following is correct in VLSM?
+A. Can have subnets of different sizes
+B. Subnets must be in same size Â  Â  Â  Â  Â  Â 
+C. No required of subnet
+D. All of above
+Answer: A 
+
+6-3. What does the port number in a TCP connection specify?
+A. It specifies the communication process on the two end systems
+B. It specifies the quality of the data & connection
+C. It specify the size of data
+D. All of the above
+Answer: A 
+
+6-4. The class-based addressing is also known as
+A. Modern Model
+B. Classful Model
+C. Classless Model
+D. Heterogeneous Model
+Answer: B 
+
+6-5. Which of the following is correct in CIDR?
+A. Class A includes Class B network
+B. There are only two networks
+C. There are high & low class network
+D. There is no concept of class A, B, C networks
+Answer: D 
+
+6-6. What is the size of Source and Destination IP address in IP header?
+A. 4 bits
+B. 8 bits
+C. 16 bits
+D. 32 bits
+Answer: D 
+
+6-7. Which of the following is reliable communication?
+A. TCP
+B. IP
+C. UPD
+D. All of them
+Answer: A 
+
+6-8. What is the typical range of Ephemeral ports?
+A. 1 to 80
+B. 1 to 1024
+C. 80 to 8080
+D. 1024 to 65535
+Answer: D 
+
+6-9. What is the purpose of the PSH flag in the TCP header?
+A. Typically used to indicate end of message
+B. Typically used to indicate beginning of message
+C. Typically used to push the message
+D. Typically used to indicate stop the message
+Answer: A 
+
+6-10. What is the natural mask for a class C Network?
+A. 255.255.255.1
+B. 255.255.255.0
+C. 255.255.255.254
+D. 255.255.255.255
+Answer: B
+
+
+multiple-choice-questions-of-computer-networking-set-5
+
+5-1 Which of the following is not the External Security Threats?
+A. Front-door Threats
+B. Back-door Threats
+C. Underground Threats
+D. Denial of Service (DoS)
+Answer: C 
+
+5-2 What is the Demilitarized Zone?
+A. The area between firewall & connection to an external network
+B. The area between ISP to Military area            
+C. The area surrounded by secured servers
+D. The area surrounded by the Military
+Answer: A 
+
+5-3 What is the full form of RAID ?
+A. Redundant Array of Independent Disks
+B. Redundant Array of Important Disks
+C. Random Access of Independent Disks
+D. Random Access of Important Disks
+Answer: A 
+
+5-4 What is the maximum header size of an IP packet?
+A. 32 bytes
+B. 64 bytes
+C. 30 bytes
+D. 60 bytes
+Answer: D 
+
+5-5 What is the size of Host bits in Class B of IP address?
+A. 04
+B. 08
+C. 16
+D. 32
+Answer: C 
+
+5-6 What is the usable size of Network bits in Class B of IP address?
+A. 04
+B. 08
+C. 14
+D. 16
+Answer: C 
+
+5-7 In which type of RAID, data is mirrored between two disks.
+A. RAID 0
+B. RAID 1
+C. RAID 2
+D. RAID 3
+Answer: B 
+
+5-8 What do you mean by broadcasting in Networking?
+A. It means addressing a packet to all machine
+B. It means addressing a packet to some machine
+C. It means addressing a packet to a particular machine
+D. It means addressing a packet to except a particular machine
+Answer: A 
+
+5-9 Which of the following is/are Protocols of Application?
+A. FTP
+B. DNS
+C. Telnet
+D. All of above
+Answer: D 
+
+5-10 Which of the following protocol is/are defined in Transport layer?
+A. FTP
+B. TCP
+C. UDP
+D. B & C
+Answer: D
+
+
+multiple-choice-questions-of-computer-networking-set-4
+
+4-1. What is the benefit of the Networking?
+A. File Sharing
+B. Easier access to Resources
+C. Easier Backups
+D. All of the Above
+Answer: D 
+
+4-2. Which of the following is not the Networking Devices?
+A. Gateways
+B. Linux            
+C. Routers
+D. Firewalls
+Answer: B 
+
+4-3. What is the size of MAC Address?
+A. 16-bits
+B. 32-bits
+C. 48-bits
+D. 64-bits
+Answer: C 
+
+4-4. Which of the following can be Software?
+A. Routers
+B. Firewalls
+C. Gateway
+D. Modems
+Answer: B 
+
+4-5. What is the use of Ping command?
+A. To test a device on the network is reachable
+B. To test a hard disk fault
+C. To test a bug in a Application
+D. To test a Pinter Quality
+Answer: A 
+
+4-6. MAC Address is the example of
+A. Transport Layer
+B. Data Link Layer
+C. Application Layer
+D. Physical Layer
+Answer: B 
+
+4-7. Routing tables of a router keeps track of
+A. MAC Address Assignments
+B. Port Assignments to network devices
+C. Distribute IP address to network devices
+D. Routes to use for forwarding data to its destination 
+Answer: D 
+
+4-8. Layer-2 Switch is also called
+A. Multiport Hub
+B. Multiport Switch
+C. Multiport Bridge
+D. Multiport NIC
+Answer: C 
+
+4-9. Difference between T568A and T568B is
+A. Difference in wire color
+B. Difference in number of wires
+C. Just different length of wires
+D. Just different manufacturer standards
+Answer: D 
+
+4-10. The meaning of Straight-through Cable is
+A. Four wire pairs connect to the same pin on each end
+B. The cable Which Directly connects Computer to Computer
+C. Four wire pairs not twisted with each other
+D. The cable which is not twisted
+Answer: A
+
+
+multiple-choice-questions-of-computer-networking-set-3
+
+3-1. Why IP Protocol is considered as unreliable?
+A. A packet may be lost
+B. Packets may arrive out of order
+C. Duplicate packets may be generated
+D. All of the above
+Answer: D 
+
+3-2. What is the minimum header size of an IP packet?
+A. 16 bytes
+B. 10 bytes            
+C. 20 bytes
+D. 32 bytes
+Answer: C 
+
+3-3. Which of following provides reliable communication?
+A. TCP
+B. IP
+C. UDP
+D. All of the above
+Answer: A 
+
+3-4. What is the address size of IPv6 ?
+A. 32 bit
+B. 64 bit
+C. 128 bit
+D. 256 bit
+Answer: C 
+
+3-5. What is the size of Network bits & Host bits of Class A of IP address?
+A. Network bits 7, Host bits 24
+B. Network bits 8, Host bits 24
+C. Network bits 7, Host bits 23
+D. Network bits 8, Host bits 23
+Answer: A 
+
+3-6. What does Router do in a network?
+A. Forwards a packet to all outgoing links
+B. Forwards a packet to the next free outgoing link
+C. Determines on which outing link a packet is to be forwarded
+D. Forwards a packet to all outgoing links except the originated link
+Answer: C 
+
+3-7. The Internet is an example of
+A. Cell switched network
+B. circuit switched network
+C. Packet switched network
+D. All of above
+Answer: C 
+
+3-8. What does protocol defines? 
+A. Protocol defines what data is communicated.
+B. Protocol defines how data is communicated.
+C. Protocol defines when data is communicated.
+D. All of above
+Answer: D 
+
+3-9. What is the uses of subnetting?
+A. It divides one large network into several smaller ones
+B. It divides network into network classes
+C. It speeds up the speed of network
+D. None of above
+Answer: A 
+
+3-10. Repeater operates in which layer of the OSI model?
+A. Physical layer
+B. Data link layer
+C. Network layer
+D. Transport layer
+Answer: A
+
+
+multiple-choice-questions-of-computer-networking-set-2
+
+2-1 Each IP packet must contain
+A. Only Source address
+B. Only Destination address
+C. Source and Destination address
+D. Source or Destination address
+Answer: C 
+
+2-2 Bridge works in which layer of the OSI model?
+A. Appliation layer
+B. Transport layer                   
+C. Network layer
+D. Datalink layer
+Answer: D 
+
+2-3 _______ provides a connection-oriented reliable service for sending messages
+A. TCP
+B. IP
+C. UDP
+D. All of the above
+Answer: A 
+
+2-4 Which layers of the OSI model are host-to-host layers?
+A. Transport, Session, Persentation, Application
+B. Network, Transport, Session, Presentation
+C. Datalink, Network, Transport, Session
+D. Physical, Datalink, Network, Transport
+Answer: A 
+
+2-5 Which of the following IP address class is Multicast
+A. Class A
+B. Class B
+C. Class C
+D. Class D
+Answer: D 
+
+2-6 Which of the following is correct regarding Class B Address of IP address
+A. Network bit – 14, Host bit – 16
+B. Network bit – 16, Host bit – 14
+C. Network bit – 18, Host bit – 16
+D. Network bit – 12, Host bit – 14
+Answer: A 
+
+2-7 The last address of IP address represents
+A. Unicast address
+B. Network address
+C. Broadcast address
+D. None of above
+Answer: C 
+
+2-8 How many bits are there in the Ethernet address?
+A. 64 bits
+B. 48 bits
+C. 32 bits
+D. 16 bits
+Answer: B 
+
+2-9 How many layers are in the TCP/IP model?
+A. 4 layers
+B. 5 layers
+C. 6 layers
+D. 7 layers
+Answer: A 
+
+2-10 Which of the following layer of OSI model also called end-to-end layer?
+A. Presentation layer
+B. Network layer
+C. Session layer
+D. Transport layer
+Answer: D
+
+
+multiple-choice-questions-of-computer-networking-set-1
+
+1-1 Computer Network is
+A.  Collection of hardware components and computers
+B.  Interconnected by communication channels
+C.  Sharing of resources and information
+D.  All of the Above
+Answer: D 
+
+1-2 What is a Firewall in Computer Network?
+A.  The physical boundary of Network
+B.  An operating System of Computer Network      
+C.  A system designed to prevent unauthorized access
+D.  A web browsing Software
+Answer: C 
+
+1-3 How many layers does OSI Reference Model has?
+A.  4
+B.  5
+C.  6
+D.  7
+Answer: D 
+
+1-4 DHCP is the abbreviation of
+A.  Dynamic Host Control Protocol
+B.  Dynamic Host Configuration Protocol
+C.  Dynamic Hyper Control Protocol
+D.  Dynamic Hyper Configuration Protocol
+Answer: B 
+
+1-5 IPV4 Address is
+A.  8 bit
+B.  16 bit
+C.  32 bit
+D.  64 bit
+Answer: C 
+
+1-6 DNS is the abbreviation of
+A.  Dynamic Name System
+B.  Dynamic Network System
+C.  Domain Name System
+D.  Domain Network Service
+Answer: C 
+
+1-7 What is the meaning of Bandwidth in Network?
+A.  Transmission capacity of a communication channels
+B.  Connected Computers in the Network
+C.  Class of IP used in Network
+D.  None of Above
+Answer: A 
+
+1-8 ADSL is the abbreviation of
+A.  Asymmetric Dual Subscriber Line
+B.  Asymmetric Digital System Line
+C.  Asymmetric Dual System Line
+D.  Asymmetric Digital Subscriber Line
+Answer: D 
+
+1-9 What is the use of Bridge in Network?
+A.  to connect LANs
+B.  to separate LANs
+C.  to control Network Speed
+D.  All of the above
+Answer: A 
+
+1-10 Router operates in which layer of OSI Reference Model?
+A.  Layer 1 (Physical Layer)
+B.  Layer 3 (Network Layer)
+C.  Layer 4 (Transport Layer)
+D.  Layer 7 (Application Layer)
+Answer: B

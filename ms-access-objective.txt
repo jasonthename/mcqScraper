@@ -1,0 +1,541 @@
+
+
+multiple-choice-questions-of-microsoft-access-set-8
+
+8-1 Data can be import into Access Database from
+Answer: B 
+
+8-2 What is the use of Referential Integrity in MS Access?
+Answer: A 
+
+8-3 In MS Access, Field Value may contain 
+Answer: D 
+
+8-4 Which of the following is the DBMS type
+Answer: D 
+
+8-5 Which of the following relationship is not valid in MS Access ?
+Answer: B 
+
+8-6 A collection of related tables is called 
+Answer: C 
+
+8-7 Which of the following Format supports for Data Type Yes/No?
+Answer: D 
+
+8-8 Queries can be created in Access by 
+Answer: D 
+
+8-9 Relationship can be establish between two tables by
+Answer: A 
+
+8-10 What is the use of Cascade Delete Option in MS Access?
+Answer: B
+
+
+multiple-choice-questions-of-microsoft-access-set-7
+
+7-1 Which of the following is use to get data from user?
+A. Query
+B. Pages
+C. Form
+D. Report
+Answer: C 
+
+7-2 Which of the following is invalid field name?
+A. Student.Address
+B. Student’sAddress      
+C. Student_Address
+D. Student Address
+Answer: A 
+
+7-3 Primary key is
+A. Uniquely identifies each record
+B. Cannot be repeated
+C. AutoNumber is example of Primary key
+D. All of the above
+Answer: D 
+
+7-4 To create a table in Access
+A. Database should be created before create table
+B. Table can be created using Table Templates
+C. There must be at least one Primary key in a table
+D. All of the above
+Answer: D 
+
+7-5 Which of the following is use to view or print the data in organized manner?
+A. Query
+B. Report
+C. Table
+D. Form
+Answer: B 
+
+7-6 In a table to insert User’s Voice, Data field should be
+A. OLE Object
+B. SoundField
+C. VoiceField
+D. Memo
+Answer: A 
+
+7-7 In a table Multiple Primary Keys can be set
+A. True
+B. False
+Answer: A 
+
+7-8 After creating the table which of the following is correct?
+A. Fields cannot be added
+B. Fields cannot be deleted
+C. Fields can added but only once
+D. Fields can added and deleted as needed
+Answer: D 
+
+7-9 Validation Rule in a field will
+A. Checks the value entered when user leaves the field
+B. Displays the value in specified format when user leaves the field
+C. Defines the appearance for the text
+D. There is no option of Validation Rule
+Answer: A 
+
+7-10 Query can be use to select data from
+A. Single Table
+B. Multiple Tables
+C. Both A & B 
+Answer: C
+
+
+multiple-choice-questions-of-microsoft-access-set-6
+
+6-1  In MS Access, Text Data type may contain maximum character of
+A.  255 Character
+B.  256 Character
+C.  1064 Character
+D.  No Limit
+Answer: A 
+
+6-2  Which of the following is not a valid Data Type in MS Access?
+A.  Memo
+B.  Picture      
+C.  Currency
+D.  AutoNumber
+Answer: B 
+
+6-3  In MS Access “Hyperlink” Data Type can store
+A.  Web Address
+B.  email Address
+C.  Path of a File
+D.  All of Above
+Answer: D 
+
+6-4  Which of the following data type is used to store logical value in MS Access?
+A.  True/False
+B.  On/Off
+C.  Yes/No
+D.  All of Above
+Answer: C 
+
+6-5  The appropriate Data Type to store Time in MS Access?
+A.  Date/Time
+B.  Time Only
+C.  Time
+D.  Time cannot be stored
+Answer: A 
+
+6-6  In MS Access “Lookup Wizard” is used to
+A.  to select from previous values
+B.  to select values from Excel Sheet
+C.  to select value from another table
+D.  Not a valid Data Type
+Answer: C 
+
+6-7  Which of the following Data Type is used to store picture in MS Access
+A.  Picture
+B.  OLE Object
+C.  Memo
+D.  Picture cannot be stored
+Answer: B 
+
+6-8  in MS Access, which data type is appropriate to store large text and numbers?
+A.  Text
+B.  Memo
+C.  OLE
+D.  Large Text
+Answer: B 
+
+6-9  in MS Access, OLE Object Data type can store
+A.  Microsoft Word documents
+B.  Microsoft Excel spreadsheets
+C.  Sounds
+D.  All of the Above
+Answer: D 
+
+6-10  in MS Access, AutoNumber Data Type
+A.  Can be Sequential
+B.  Can be Random
+C.  Can be Edited
+D.  Only A & B
+Answer: D
+
+
+multiple-choice-questions-of-microsoft-access-set-5
+
+5-1.  Which is not a view for displaying a report object?
+A. Datasheet view
+B. Design view
+C. Print preview
+D. Layout preview
+Answer: A 
+
+5-2.  The report footer section is most useful for displaying:
+A. grand totals
+B. Column headings     
+C. subtotals
+D. page numbers
+Answer: A 
+
+5-3.  Which function can not be used for calculated controls in a report?
+A. SUM
+B. AVG
+C. MPT
+D. COUNT
+Answer: C 
+
+5-4.  Which setting you must modify to print a report using letterhead?
+A. Group
+B. Margin
+C. Section
+D. Orientation
+Answer: B 
+
+5-5.  In the datasheet formatting dialogue box, which is not an option in the border and line styles dropdown list box?
+A. datasheet border
+B. datasheet underline
+C. Column Header underline
+D. vertical gridline
+Answer: C 
+
+5-6.  Which is not an option for customizing a datasheet window?
+A. change one row’s height
+B. hide one column
+C. change one column’s width
+D. freeze one column
+Answer: A 
+
+5-7.  Which is not a command that is selectable from right click menu of a field column?
+A. Hide columns
+B. Unhide columns
+C. freeze columns
+D. sort descending
+Answer: B 
+
+5-8.  What do you call the process of restricting the display of records in a table to those matching a particular criterion?
+A. filtering
+B. restricting
+C. sorting
+D. sifting
+Answer: A 
+
+5-9.  In the relationships window, what does the appearance of symbols, such as 1 and the infinity symbol, at the endpoints of a relationship line mean?
+A. Referential integrity is enforced
+B. Referential integrity isn’t enforced
+C. An inner join is set
+D. An outer join is set
+Answer: A 
+
+5-10.  Which of the following is not an action query?
+A. add
+B. delete
+C. make-table
+D. update
+Answer: A
+
+
+multiple-choice-questions-of-microsoft-access-set-4
+
+4-1.  In an application created using the database wizard, the main menu is presented as a:
+A. form, called a switchboard
+B. report, called a menu
+C. table, called a switchboard
+D. query, called a menu
+Answer: A 
+
+4-2.  Which leads you through the process of creating a table?
+A. wizard
+B. assistant       
+C. relation
+D. coach
+Answer: A 
+
+4-3.  Which data type is better to use for storing the price of an item?
+A. Text
+B. AutoNumber
+C. Number
+D. Currency
+Answer: D 
+
+4-4.  Which do you click to display the table’s primary key and indexes in a separate window?
+A. indexes button
+B. primary key button
+C. view datasheet button
+D. view design button
+Answer: A 
+
+4-5.  After right click the field selector button, which do you choose to delete a field in design view?
+A. Delete field
+B. delete rows
+C. remove field
+D. remove rows
+Answer: B 
+
+4-6.  Which tool is used to generate printout of a table’s structure?
+A. Analyzer
+B. Designer
+C. Documenter
+D. Generator
+Answer: C 
+
+4-7.  Which of the following is not a legitimate section for form objects?
+A. Form detail
+B. Group header
+C. Form header
+D. Page footer
+Answer: B 
+
+4-8.  The basic elements of a form or a report are called:
+A. Controls
+B. Objects
+C. Windows
+D. Properties
+Answer: A 
+
+4-9.  Which control types is most often associated with a bound control?
+A. command button
+B. label
+C. text box
+D. list box
+Answer: C 
+
+4-10.  Which control type do you use to create a calculated control?
+A. command button
+B. combo box
+C. text box
+D. list box
+Answer: C
+
+
+multiple-choice-questions-of-microsoft-access-set-3
+
+3-1.Â  What do you call a collection of records matching parameters of a query?
+A. Field
+B. Record
+C. Query
+D. Dynaset
+Answer:1 â D 
+
+3-2.Â  Which query do you use to answer the question âWhich employees earn more than $5000 a monthâ?
+A. Search query
+B. Cross tab query Â  Â Â 
+C. Select query
+D. Update query
+Answer: 2 â C 
+
+3-3.Â  In which order do you place the field to sort a Dynaset first by zipcode, then by lastname and then by firstname?
+A. zipcode, firstname, lastname
+B. firstname, lastname, zipcode
+C. zipcode, lastname, firstname
+D. canât sort by multiple fields
+Answer: C 
+
+3-4.Â  What does the expression [detail] ! [product] * 1.30 do?
+A. multiplies the contents of detail and product fields by 1.3
+B. First divides detail by product and then multiplies by 1.3
+C. multiplies the contents of detail in the product table by 1.3
+D. multiplies the contents of product in the detail table by 1.3
+Answer: 4 â D 
+
+3-5.Â  Which criteria return only those addresses beginning with the letter âKâ?
+A. address = âKâ
+B. address = âK*â
+C.Â  address = âK?â
+D. address = âK#â
+Answer: 5 â B 
+
+3-6.Â  Which criteria do not return the position âOfficerâ as a match?
+A. position = â*ff*â
+B. position = âO??icerâ
+C. position = â ?ff*â
+D. position = âO#râ
+Answer: 6 â D 
+
+3-7.Â  Which query do you use to answer the question âWhat is the average salary of the employeesâ?
+A. Search query
+B. Cross tab query
+C. Select query
+D. Update query
+Answer: 7 â C 
+
+3-8.Â  What is the result of âSelect * from customer where CustID>10 and CustID<100â query?
+A. display all customers with CustID from 10 to 100
+B. display all customers with CustID above 10
+C. display all customers with CustID below 100
+D. display all customers with CustID from 11 to 99
+Answer: 8 â D 
+
+3-9.Â  How to make a date field DOB store the dates like â2002/10/17â ?
+A. By setting the input mask property to âyyyy/mm/ddâ
+B. By setting the format property to âyyyy/mm/ddâ
+C. By entering dates in yyyy, mm, dd order
+D. none of the above
+Answer: 9 â B 
+
+3-10.Â  You have field âSexâ of type Byte Number. How to limit its value to 0 and 1 only?
+A. By setting required to âYesâ
+B. By using default value
+C. By defining validation rule
+D. By using format
+Answer: 10 â C
+
+
+multiple-choice-questions-of-microsoft-access-set-2
+
+2-1.  Which object is used to create a form?
+A. Tables and Queries
+B. Tables only
+C. Tables and reports
+D. Queries and reports
+Answer: A 
+
+2-2.  What determines a table’s sort order?
+A. AutoNumber field
+B. Index field    
+C. Field order
+D. Primary key
+Answer: B 
+
+2-3.  What is an intersection of a row and a column?
+A. Form
+B. Cursor
+C. Cell
+D. Record
+Answer: C 
+
+2-4.  Which tool do you use to create a query object?
+A. Database wizard
+B. Simple filter wizard
+C. Simple query wizard
+D. Table query wizard
+Answer: C 
+
+2-5.  Which of the following is not a view for interacting with a form object?
+A. Datasheet view
+B. Design view
+C. Form view
+D. Layout view
+Answer: D 
+
+2-6.  What is the purpose of indexing?
+A. To reduce table size
+B. To speedup data search
+C. both A and B
+D. none of the above
+Answer: B 
+
+2-7.  Which is the valid data type in Access?
+A. Number
+B. Text
+C. Currency
+D. All of the above
+Answer: D 
+
+2-8.  How many relations may exist between tables in databases?
+A. 4
+B. 3
+C. 2
+D. 1
+Answer: B 
+
+2-9.  What is the full form of SQL?
+A. Sophisticated Question List
+B. Structured Question List
+C. Structured Query Language
+D. Small Query Length
+Answer: C 
+
+2-10.  Which data type is better to use for storing phone number in the following format “977-1-1234567”?
+A. Text
+B. AutoNumber
+C. Number
+D. Currency
+Answer: A
+
+
+multiple-choice-questions-of-microsoft-access-set-1
+
+1-1.  An organized collection of logically related data is known as 
+A. Data
+B. Meta data
+C. Database
+D. Information
+Answer: C 
+
+1-2.  In databases, Locking level is also called as
+A. Granularity
+B. S lock   
+C. X lock
+D. Dead lock
+Answer: A 
+
+1-3.  Which of the following is not a database application?
+A. dBase
+B. Flash
+C. FoxPro
+D. Access
+Answer: B 
+
+1-4.  HSAM stands for ________ 
+A. Hierarchic Sequential Access Method
+B. Hierarchic Standard Access Method
+C. Hierarchic Sequential and Method
+D. Hierarchic Standard and Method
+Answer: A 
+
+1-5.  Which of the following is not a logical database structure?
+A. Chain
+B. Network
+C. Tree
+D. Relational
+Answer: A 
+
+1-6.  In a datasheet, what does each column represent?
+A. Record
+B. Field
+C. Database
+D. Table
+Answer: B 
+
+1-7.  In a datasheet, what does each row represent?
+A. Record
+B. Field
+C. Database
+D. Table
+Answer: A 
+
+1-8.  A ________ is a unit of information in a ________
+A. record, field
+B. field, record
+C. data source, field
+D. record, data source
+Answer: B 
+
+1-9.  What do you call a primary key field included in another table?
+A. Foreign key
+B. Parent key
+C. Child key
+D. Index
+Answer: A 
+
+1-10.  Which type of field is incremented automatically?
+A. Auto Elevate
+B. AutoNumber
+C. Auto Increment
+D. Auto Value
+Answer: B

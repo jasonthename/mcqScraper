@@ -1,0 +1,876 @@
+
+
+multiple-choice-questions-of-microsoft-excel-set-12
+
+12-1. What is the shortcut key to insert a new comment in a cell?
+A. F2
+B. Alt + F2
+C. Ctrl + F2
+D. Shift + F2
+Answer: D 
+
+12-2. Which option allows you to Bold all the negative values within the selected cell range:
+A. Zero Formatting
+B. Conditional Formatting             
+C. Compare Formatting
+D. Negative Formatting
+Answer: B 
+
+12-3. What is the shortcut key to insert new sheet in current workbook?
+A. F11
+B. Alt + F11
+C. Ctrl + F11
+D. Shift + F11 
+Answer: D 
+
+12-4. Which one is the last column header in Excel 2007?
+A. XFD
+B. XFX
+C. XFL
+D. XFT
+Answer: A 
+
+12-5. In maximum, how many sheets can be set as default while creating new workbook? 
+A. 254
+B. 255
+C. 256
+D. No Limit
+Answer: B 
+
+12-6. “New Comment” option can be found under _________ tab
+A. Insert
+B. Data
+C. Review
+D. View
+Answer: C 
+
+12-7. In Excel, by default Numeric Values appears in
+A. Left aligned
+B. Right aligned
+C. Center aligned
+D. Justify aligned 
+Answer: B 
+
+12-8. To show/hide the grid lines in Microsoft Excel 2007
+A. Page Layout -> Grid lines -> View
+B. Insert -> Grid lines -> View
+C. View -> Grid lines -> View
+D. Edit -> Grid lines -> View
+Answer: A 
+
+12-9. What will be the result if you type =A1=B1 in cell C1?
+A. Yes or No
+B. True or False
+C. Value of A1
+D. Value of B1 
+Answer: B 
+
+12-10. In Excel _______ may not contain in Formula
+A. Text Constant
+B. Number Constant
+C. Circular Reference
+D. All of them
+Answer: C
+
+
+multiple-choice-questions-of-microsoft-excel-set-11
+
+11-1. Which of the following is correct syntax in Excel?
+A. =IF(LogicalTest, TrueResult, FalseResult)
+B. =IF(LogicalTest, (TrueResult, FalseResult))
+C. =IF(LogicalTest, TrueResult) (LogicalTest, FalseResult)
+D. =IF(LogicalTest, TrueResult), IF(LogicalTest, FalseResult)
+Answer: A 
+
+11-2. Which of the following is correct?
+A. =POWER(2^3)
+B. =POWER(2,3) Â  Â  Â  Â  Â  Â 
+C. =POWER(2#3)
+D. =POWER(2*3)
+Answer: B 
+
+11-3. Selecting the Rows 5 & 6 then choose Insert->Row. What will happen?
+A. 2 Rows will be inserted after Row 4
+B. 2 Rows will be inserted after Row 5
+C. 2 Rows will be inserted after Row 6
+D. 2 Rows will be inserted after Row 7
+Answer: A 
+
+11-4. If 4/6 entered in a cell without applying any formats, Excel will treat this as
+A. Fraction
+B. Number
+C. Text
+D. Date
+Answer: D 
+
+11-5. If the values in A1 is âMCQâ and B1 is âQuestionsâ, which function will return âMCQ@Questionsâ in cell C1?
+A. =A1 + â@â + B1
+B. =A1 # â@â # B1
+C. =A1 & â@â & B1
+D. =A1 $ â@â $ B1
+Answer: C 
+
+11-6. How to fit long texts in a single cell with multiple lines?
+A. Start typing in the cell and press the Enter key to start another line
+B. Use the Wrap Text option in the Format -> Alignment menu
+C. Use the Shrink to Fit option in the Format -> Cells -> Alignment menu
+D. All of above
+Answer: B 
+
+11-7. If particular workbook have to open each time Excel started, where that workbook should be placed?
+A. AUTOEXEC Folder
+B. AUTOSTART Folder
+C. EXCELSTART Folder
+D. XLSTART Folder
+Answer: D 
+
+11-8. If the cell B1 contains the formula = $A$1, which of the following statements is true
+A. There is a relative reference to cell A1
+B. There is an absolute reference to cell A1
+C. Further changes in value of A1 will not affect the value of B1
+D. Further changes in value of B1 will affect the value of A1
+Answer: B 
+
+11-9. Worksheet can be renamed by 
+A. Adding ? symbol at the end of filename while saving workbook
+B. Click on Worksheet tab by Holding CTRL Key and type new name
+C. Double Click on the Worksheet tab and type new name
+D. Worksheet cannot renamed
+Answer: C 
+
+11-10. What is the shortcut key to hide entire row?
+A. CTRL + H
+B. CTRL + R
+C. CTRL + 9
+D. CTRL + –
+Answer: C
+
+
+multiple-choice-questions-of-microsoft-excel-set-10
+
+10-1. Which of the following syntax is correct regarding to SUM function in Excel?
+A. =SUM (A1, B1)
+B. =SUM (A1:B9)
+C. =SUM (A1:A9, B1:B9)
+D. All of the above
+Answer: D 
+
+10-2. What is the shortcut key to hide entire column?
+A. CTRL + −
+B. CTRL + 0            
+C. CTRL + H
+D. CTRL + C
+Answer: B 
+
+10-3. How to specify cell range from A9 to A99 in Excel?
+A. (A9, A99)
+B. (A9 to A99)
+C. (A9 : A99)
+D. (A9 – A99)
+Answer: C 
+
+10-4. Selecting the Column G & H then choose Insert->Columns. What will happen?
+A. 2 Columns will be inserted after Column F
+B. 2 Columns will be inserted after Column G
+C. 2 Columns will be inserted after Column H
+D. 2 Columns will be inserted after Column I
+Answer: A 
+
+10-5. How to restrict the values of a cell so that only whole numbers between 9 and 99 can be entered in a cell.
+A. The Settings tab under the menu Format -> Cells
+B. The Settings tab under the menu Data -> Validation
+C. The Settings tab under the menu Data -> Filter -> Advanced Filter
+D. the Settings tab under the menu Format -> Conditional Formatting
+Answer: B 
+
+10-6. Clear the contents by pressing “DELETE” key from a keyboard will clear 
+A. Text Only
+B. Format Only
+C. Contents Only
+D. Both Contents and Format
+Answer: C 
+
+10-7. Which of the following shortcuts can be used to insert a new line in the same cell?
+A. Enter
+B. Alt + Enter
+C. Ctrl + Enter
+D. Shift + Enter
+Answer: B 
+
+10-8. What is the quickest way to select entire worksheet?
+A. Choose Edit -> Select all from the Menu
+B. Click on the first column, press Ctrl, and then click on the last column
+C. Click on the first column, press Shift, and then click on the last column
+D. Click on the rectangle box on the upper left corner where column headings and row headings meet
+Answer: D 
+
+10-9. A smart tag will be removed from a cell when 
+A. the cell is moved
+B. the cell is hidden
+C. the data in the cell is changed or deleted
+D. the formatting of the cell is changed
+Answer: C 
+
+10-10. Which of the following options is appropriate to show the numbers 9779851089510 in a cell?
+A. Enclose the number is brackets
+B. Place the character T before the number
+C. Place the character TX before the number
+D. Apply the Text format in the cell and type the numbers
+Answer: D
+
+
+multiple-choice-questions-of-microsoft-excel-set-9
+
+9-1. What is the AutoComplete feature of Excel?
+A. It automatically completes abbreviated words
+B. It completes text entries that match an existing entry in the same column
+C. It completes text and numeric entries that match an existing entry in the same column
+D. It completes text entries that match an existing entry in the same worksheet
+Answer: B 
+
+9-2. Which of the following is correct?
+A. =AVERAGE(4, 5, 6, 7)
+B. =AVERAGE(A1, B1, C1)              
+C. =AVERAGE(A1:A9, B1:B9)
+D. =All of the above
+Answer: D 
+
+9-3. Which of the following function will return a value of 8?
+A. ROUNDUP(8.4999, 0)
+B. ROUNDDOWN(8.4999, 0)
+C. ROUND(8.4999, 0)
+D. Only B and C
+Answer: D 
+
+9-4. How to restrict to run a macro automatically when starting Microsoft Excel?
+A. Hold down the SHIFT key during startup
+B. Hold down the CTRL key during startup
+C. Hold down the ESC key during startup
+D. Hold down the ALT key during startup
+Answer: A 
+
+9-5. How to remove the unwanted action from recorded macro without recording the whole macro again?
+A. By using the Find and Edit Action Option
+B. By clicking on the Refresh button in the Macro toolbar
+C. By edit the macro in the Visual Basic Editor
+D. Macro cannot be edited.
+Answer: C 
+
+9-6. What should be add before a fraction to avoid entering it as a date?
+A. //
+B. FR
+C. Zero
+D. Zero Space
+Answer: D 
+
+9-7. Which of the following function will use to find the highest number in a series of number?
+A. MAX(B1:B3)
+B. MAXIMUM (B1:B3)
+C. HIGH (B1:B3)
+D. HIGHEST(B1:B3)
+Answer: A 
+
+9-8. What does the NOW() function return?
+A. It returns the serial number of the current date and time
+B. It returns the serial number of the current date
+C. It returns the serial number of the current time
+D. None of the above
+Answer: D 
+
+9-9. What value will display if the formula = “$55.00″+5 is entered into a cell?
+A. $60
+B. 60
+C. “$55.00″+5
+D. $60.00
+Answer: B 
+
+9-10. What is the shortcut key to insert current date in a cell?
+A. CTRL + D
+B. CTRL + T
+C. CTRL + ;
+D. CTRL + /
+Answer: C
+
+
+multiple-choice-questions-of-microsoft-excel-set-8
+
+8-1Â  A function inside another function is called _______
+A. Nested function
+B. Round function
+C. Sum function
+D. Text function
+Answer: A 
+
+8-2Â  Which of the following is not an underline option in the format cells dialog box?
+A. Double
+B. Single Accounting Â  Â  Â Â 
+C. Double Accounting
+D. Single Engineering
+Answer: D 
+
+8-3Â  Formulas in Excel start with
+A.Â Â  %
+B.Â Â  =
+C.Â Â  +
+D.Â Â  –
+Answer: B 
+
+8-4Â  The default header for a worksheet is
+A. Username
+B. Date and Time
+C. Sheet tab Name
+D. None
+Answer: D 
+
+8-5Â  Which of the following is not an option of the spelling dialog box?
+A. Ignore
+B. Ignore all
+C. Edit
+D. Change
+Answer: C 
+
+8-6Â  Which of the following methods will not enter data in a cell?
+A. Pressing the Esc key
+B. Pressing an arrow key
+C. Pressing the tab key
+D. Clicking the enter button to the formula bar
+Answer: A 
+
+8-7Â  The cell reference for cell range of G2 to M12 is _______
+A.Â Â  G2.M12
+B. Â  G2;M12
+C.Â Â  G2:M12
+D.Â Â  G2-M12
+Answer: C 
+
+8-8Â  What is the keyboard shortcut for creating a chart from the selected cell range?
+A.Â Â  F2
+B.Â Â  F4
+C.Â Â  F8
+D.Â Â  F11
+Answer: D 
+
+8-9 The Software which contains rows and columns is called ______
+A. Database
+B. Drawing
+C. Spreadsheet
+D. Word processing
+Answer: C 
+
+8-10 You can group noncontiguous worksheets with
+A. The alt+enter key
+B. The ctrl key and mouse
+C. The shift key and the mouse
+D. The group button on the standard toolbar
+Answer: B
+
+
+multiple-choice-questions-of-microsoft-excel-set-7
+
+7-1. The box on the chart that contains the name of each individual record is called the ________.
+A. cell
+B. title
+C. axis
+D. legend
+Answer: D 
+
+7-2. If you want all of the white cats grouped together in the database, you need to sort by ________.
+A. Color, then Gender
+B. Pet Type, then Color
+C. Pet Type, then Gender
+D. Color, then Pet Name
+Answer: B 
+
+7-3. You accidentally erased a record in the sheet. What command can be used to restore it immediately?
+A. Insert
+B. Copy
+C. Undo
+D. Replace
+Answer: C 
+
+7-4. Where a row and a column meet, what do you call that?
+A. A cell
+B. A block
+C. A box
+D. None of the above
+Answer: A 
+
+7-5. How do you tell one cell from another?
+A. By numbers
+B. By letters
+C. By its address
+D. by color
+Answer: C 
+
+7-6. Give me an example of a cell address.
+A. 11 25
+B. 911
+C. 41A
+D. A21
+Answer: D 
+
+7-7. Which is an example of a formula?
+A. =A1+A2
+B. =add(A1:A2)
+C. A1+A2
+D. SUM(A1:A2)
+Answer: A 
+
+7-8. Which is an example of a function?
+A. =add(A1:A2)
+B. =A1+A2
+C. =SUM(A1:A2)
+D. A1+A2
+Answer: C 
+
+7-9. What is the symbol for multiplying?
+A. >
+B. /
+C. !
+D. *
+Answer: D 
+
+7-10. What is the symbol for dividing?
+A ./
+B. %
+C. &
+D. #
+Answer: A
+
+
+multiple-choice-questions-of-microsoft-excel-set-6
+
+6-1. B7:B9 indicates:
+A. Cells B7 and cell B9 only.
+B. Cells B7 through B9.
+C. Cell B8 only.
+D. None of the above.
+Answer: B 
+
+6-2. The Cancel and Enter buttons appear in the:
+A. Title bar
+B. Formula bar
+C. Menu bar
+D. Sheet tabs
+Answer: B 
+
+6-3. MS-EXCEL can be used to automate
+A. Financial statements, Business forecasting
+B. Transaction registers, inventory control
+C. Accounts receivable, accounts payable
+D. Any of the above
+Answer: D 
+
+6-4. NOT, AND, OR and XOR are
+A. Logical Operators
+B. Arithmetic operators
+C. Relational operators
+D. None of the above
+Answer: A 
+
+6-5. In a report, you need to show the monthly rainfall in Nepal. The best way to do this is to insert a
+A. calendar
+B. photograph of rainfall
+C. chart showing rainfall amounts
+D. database of rainfall
+Answer: C 
+
+6-6. You want to record experiment information and create a chart that shows the rate of crystal growth over a period of time. The best application to use would be:
+A. word processing
+B. spreadsheet
+C. database
+D. graphics
+Answer: B 
+
+6-7. You are editing an worksheet that you had previously saved. If you want to save the edited sheet without losing the original one, which command should you use?
+A. New
+B. Save As
+C. Edit
+D. Save
+Answer: B 
+
+6-8. If you want to have a blank line after the title in a worksheet, what is the best thing for you to do?
+A. Re-format the spreadsheet
+B. Insert a row
+C. Increase the column width
+D. Use the spacebar
+Answer: B 
+
+6-9. In order to arrange the countries from those with the highest population to those with the lowest, you need to sort on the population field in ……………
+A. ascending order
+B. descending order
+C. alphabetical order
+D. random order
+Answer: B 
+
+6-10. In order to perform a calculation in a spreadsheet, you need to use a:
+A. table
+B. formula
+C. field
+D. variable
+Answer: B
+
+
+multiple-choice-questions-of-microsoft-excel-set-5
+
+5-1. The first cell in EXCEL worksheet is labeled as
+A. AA
+B. A1
+C. Aa
+D. A0
+Answer: B 
+
+5-2. What happens when dollar signs ($) are entered in a cell address? (ex. $B$2:$B$10)
+A. An absolute cell address is created.
+B. Cell address will change when it is copied to another cell.
+C. The sheet tab is changed.
+D. The status bar does not display the cell address.
+Answer: A 
+
+5-3. What are the tabs that appear at the bottom of each workbook called?
+A. Reference tabs
+B. Position tabs
+C. Location tabs
+D. Sheet tabs
+Answer: D 
+
+5-4. What is represented by the small, black square in the lower-right corner of an active cell or range?
+A. Copy handle
+B. Fill handle
+C. Insert handle
+D. Border
+Answer: B 
+
+5-5. In Excel, a Data Series is defined as what?
+A. A type of chart.
+B. A cell reference.
+C. A collection of related data
+D. A division of results
+Answer: C 
+
+5-6. In Excel, the Fill Color button on the Formatting toolbar is used for what?
+A. To insert a background.
+B. To add borders.
+C. To select a distribution of figures.
+D. To add shading or color to a cell range.
+Answer: D 
+
+5-7. In help menu of Excel, which of the following tabs are found?
+A. Contents tab
+B. Answer Wizard tab
+C. Index tab
+D. all of the above.
+Answer: D 
+
+5-8. A __________ is a grid with labeled columns and rows.
+A. Dialog box
+B. Worksheet
+C. Clipboard
+D. Toolbar
+Answer: B 
+
+5-9. The active cell:
+A. is defined by a bold border around the cell.
+B. Receives the data the user enters.
+C. It is the formula bar.
+D. Only A and B.
+Answer: D 
+
+5-10. Which function is used to calculate depreciation, rates of return, future values and loan payment amounts?
+A. Logical
+B. Math & Trigonometry
+C. Statistical
+D. Financial
+Answer: D
+
+
+multiple-choice-questions-of-microsoft-excel-set-4
+
+4-1. Which language is used to create macros in Excel?
+A. Visual Basic
+B. C
+C. Visual C++
+D. Java
+Answer: A 
+
+4-2. Which of the following is not a term of MS-Excel?
+A. Cells
+B. Rows
+C. Columns
+D. Document
+Answer: D 
+
+4-3. How many worksheets can a workbook have?
+A. 3
+B. 8
+C. 255
+D. none of above
+Answer: D 
+
+4-4. Which would you choose to create a bar diagram?
+A. Edit, Chart
+B. Insert, Chart
+C. Tools, Chart
+D. Format, Chart
+Answer: B 
+
+4-5. Which setting you must modify to print a worksheet using letterhead?
+A. Paper
+B. Margin
+C. Layout
+D. Orientation
+Answer: B 
+
+4-6. What do you call the chart that shows the proportions of how one or more data elements relate to another data element?
+A. XY Chart
+B. Line Chart
+C. Pie Chart
+D. Column Chart
+Answer: C 
+
+4-7. The spelling dialog box can be involved by choosing spelling from ________ menu.
+A. insert
+B. file
+C. tools
+D. view
+Answer: C 
+
+4-8. Which key do you press to check spelling?
+A. F3
+B. F5
+C. F7
+D. F9
+Answer: C 
+
+4-9. To record a sequence of keystrokes and mouse actions to play back later we use:
+A. Media player
+B. Sound Recorder
+C. Calculator
+D. Macro Recorder
+Answer: D 
+
+4-10. We can save and protect the workbook by
+A. Write Reservation Password
+B. Protection Password
+C. Read-only Recommended
+D. Any of the above
+Answer: D
+
+
+multiple-choice-questions-of-microsoft-excel-set-3
+
+3-1. Which Chart can be created in Excel?
+A. Area
+B. Line
+C. Pie
+D. All of the above
+Answer: D 
+
+3-2. What will be the output if you format the cell containing 5436.8 as ‘#,##0.00’?
+A. 5,430.00
+B. 5,436.80
+C. 5,436.8
+D. 6.8
+Answer: B 
+
+3-3. How do you display current date and time in MS Excel?
+A. date ()
+B. Today ()
+C. now ()
+D. time ()
+Answer: C 
+
+3-4. How do you display current date only in MS Excel?
+A. date ()
+B. Today ()
+C. now ()
+D. time ()
+Answer: B 
+
+3-5. How do you wrap the text in a cell?
+A. Format, cells, font
+B. Format, cells, protection
+C. format, cells, number
+D. Format, cells, alignment
+Answer: D 
+
+3-6. What does COUNTA () function do?
+A. counts cells having alphabets
+B. counts empty cells
+C. counts cells having number
+D. counts non-empty cells
+Answer: D 
+
+3-7. What is the short cut key to highlight the entire column?
+A. Ctrl+C
+B. Ctrl+Enter
+C. Ctrl+Page Up
+D. Ctrl+Space Bar
+Answer: D 
+
+3-8. In the formula, which symbol specifies the fixed columns or rows?
+A. $
+B. *
+C. %
+D. &
+Answer: A 
+
+3-9. Excel displays the current cell address in the ……….
+A. Formula bar
+B. Status Bar
+C. Name Box
+D. Title Bar
+Answer: C 
+
+3-10. What is the correct way to refer the cell A10 on sheet3 from sheet1?
+A. sheet3!A10
+B. sheet1!A10
+C. Sheet3.A10
+D. A10
+Answer: A
+
+
+multiple-choice-questions-of-microsoft-excel-set-2
+
+2-1. An Excel Workbook is a collection of …….
+A. Workbooks
+B. Worksheets
+C. Charts
+D. Worksheets and Charts
+Answer: D 
+
+2-2. What do you mean by a Workspace?
+A. Group of Columns
+B. Group of Worksheets
+C. Group of Rows
+D. Group of Workbooks
+Answer: D 
+
+2-3. MS-EXCEL is based on ……….?
+A. WINDOWS
+B. DOS
+C. UNIX
+D. OS/2
+Answer: A 
+
+2-4. In EXCEL, you can sum a large range of data by simply selecting a tool button called …..?
+A. AutoFill
+B. Auto correct
+C. Auto sum
+D. Auto format
+Answer: C 
+
+2-5. To select an entire column in MS-EXCEL, press?
+A. CTRL + C
+B. CTRL + Arrow key
+C. CTRL + S
+D. None of the above
+Answer: D 
+
+2-6. To return the remainder after a number is divided by a divisor in EXCEL we use the function?
+A. ROUND ( )
+B. FACT ( )
+C. MOD ( )
+D. DIV ( )
+Answer: C 
+
+2-7. Which function is not available in the Consolidate dialog box?
+A. Pmt
+B. Average
+C. Max
+D. Sum
+Answer: A 
+
+2-8. Which is not the function of “Edit, Clear” command?
+A. Delete contents
+B. Delete notes
+C. Delete cells
+D. Delete formats
+Answer: C 
+
+2-9. Microsoft Excel is a powerful………..
+A. Word processing package
+B. Spreadsheet package
+C. Communication S/W Package
+D. DBMS package
+Answer: B 
+
+2-10. How do you rearrange the data in ascending or descending order?
+A. Data, Sort
+B. Data, Form
+C. Data, Table
+D. Data Subtotals
+Answer: A
+
+
+multiple-choice-questions-of-microsoft-excel-set-1
+
+1-1. Comments put in cells are called …..
+A. Smart Tip
+B. Cell Tip
+C. Web Tip
+D. Soft Tip
+Answer: B 
+
+1-2. Comments can be added to cells using …..
+A. Edit -> Comments
+B. Insert -> Comment    
+C. File -> Comments
+D. View –> Comments
+Answer: B 
+
+1-3. Which menu option can be used to split windows into two?
+A. Format -> Window
+B. View -> Window-> Split
+C. Window -> Split
+D. View –> Split
+Answer: C 
+
+1-4. Getting data from a cell located in a different sheet is called….
+A. Accessing
+B. Referencing
+C. Updating
+D. Functioning
+Answer: B 
+
+1-5. Which of the following is not a valid data type in Excel?
+A. Number
+B. Character
+C. Label
+D. Date/Time
+Answer: B 
+
+1-6. Which elements of a worksheet can be protected from accidental modification?
+A. Contents
+B. Objects
+C. Scenarios
+D. All of the above
+Answer: D 
+
+1-7. A numeric value can be treated as label value if …… precedes it.
+A. Apostrophe (‘)
+B. Exclamation (!)
+C. Hash (#)
+D. Tilde (~)
+Answer: A 
+
+1-8. Concatenation of text can be done using
+A. Apostrophe (‘)
+B. Exclamation (!)
+C. Hash (#)
+D. Ampersand (&)
+Answer: D 
+
+1-9. Which area in an Excel window allows entering values and formulas?
+A. Title Bar
+B. Menu Bar
+C. Formula Bar
+D. Standard Tool Bar
+Answer: C 
+
+1-10. Multiple calculations can be made in a single formula using…..
+A. Standard Formulas
+B. Array Formula
+C. Complex Formulas
+D. Smart Formula
+Answer: B

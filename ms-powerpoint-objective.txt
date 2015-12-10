@@ -1,0 +1,511 @@
+
+
+multiple-choice-questions-of-microsoft-powerpoint-set-7
+
+7-1 What is “Motion Path” in PowerPoint?
+A. A path to move items on a slide
+B. A path where PowerPoint file saved
+C. A path where PowerPoint Program installed
+D. None of above
+Answer: A 
+
+7-2 What is the shortcut key to start presentation from current slide?
+A. F5
+B. Alt + F5   Â  Â  Â 
+C. Ctrl + F5
+D. Shift + F5
+Answer: D 
+
+7-3 What is to be use to add text in Slide?
+A. Text Box
+B. Note Box
+C. Text Layer
+D. Comment Box
+Answer: A 
+
+7-4 Which of following is not PowerPoint views?
+A. Page View
+B. Print View
+C. Normal View
+D. Outline View
+Answer: A 
+
+7-5 What is the easiest way to place same graphic in same place in all slides
+A. Place graphic in Notes Master
+B. Place graphic in Slide Master
+c. Place graphic in Handout Master
+D. Place graphic manually in all slide
+Answer: B 
+
+7-6 To add a Header/Footer in Handout
+A. View -> Page Setup
+B. View -> Header/Footer
+C. View -> Handout Master
+D. None of Above
+Answer: C 
+
+7-7 Slide Transaction can be apply to
+A. Current Slide
+B. Selected Slides
+C. All Slides
+D. All of the above
+Answer: D 
+
+7-8 What is defined by Handout Master?
+A. Slide Formatting
+B. Slide Transaction
+C. Layout of Handout
+D. Layout of Slide
+Answer: C 
+
+7-9 Which of the following can be use as slide background?
+A. Gradient
+B. Texture
+C. Picture
+D. All of the Above
+Answer: D 
+
+7-10 Holding down the Shift key and rotate the image will rotate in increments of
+A. 10 degrees
+B. 15 degrees
+C. 20 degrees
+D. 25 degrees
+Answer: B
+
+
+multiple-choice-questions-of-microsoft-powerpoint-set-6
+
+6-1 PowerPoint Application allows you to produce
+A. Animated Presentations
+B. Paper Printouts of Slides
+C. Notes for the Speaker
+D. All of the above.
+Answer: D 
+
+6-2 What is the use of Notes in slides?
+A. It will be displays at the time of Slide Presentation
+B. This is just Note about the slide        
+C. This is just for printing purpose only
+D. Notes cannot be inserted in Slides
+Answer: B 
+
+6-3 Which of the following is correct regarding the Background of slides
+A. Background color of slides can be change
+B. Picture can be set as Slide Background
+C. Texture can be set as Slide Background
+D. All of the Above
+Answer: D 
+
+6-4 How to change the order of Slides in Presentation?
+A. On Slide Sorter View, click on the Soft Slides
+B. On Slide Sorter View, click on the slide and drag to required position
+C. On Slide Thumbnail view, click on the slide and drag to required position
+D. Slides order cannot be changed once it created
+Answer: B 
+
+6-5 How to create additional Guide Lines?
+A. by holding Ctrl key, click on existing Guide Line and drag
+B. by holding Alt key, click on existing Guide Line and drag
+C. by holding Ctrl + Alt key, click on existing Guide Line and drag
+D. Additional Guide Lines cannot be created
+Answer: A 
+
+6-6 How to insert Tables in Slide?
+A. Insert Table from Insert menu
+B. Click on Insert Table in content pane of blank slide
+C. Option A & B
+D. Tables cannot be inserted in slides
+Answer: C 
+
+6-7 What is the use of Researching Timings?
+A. This option allows you to rearrange slides
+B. This option allows you to set the time of animations
+C. This option allows you to rehearsal of slide presentation
+D. There is no such option in PowerPoint
+Answer: B 
+
+6-8 How to show the same presentation continuously?
+A. by enabling the option “Loot continuously until ‘Esc'”
+B. by enabling the option “Repeat Presentation”
+C. by enabling the option “Show same Presentation”
+D. Presentation cannot be continue once it finished
+Answer: A 
+
+6-9 What is Custom Shows in PowerPoint?
+A. Use the only some parts of the monitor is called Custom Shows
+B. The Presentation which can present only on particular date
+C. Creating Presentations within a Presentation
+D. There is no option of Custom Shows
+Answer: C 
+
+6-10 What is the use of “Hide Slide” option?
+A. to hide the selected slides during Presentation
+B. to hide the selected slides during Editing
+C. to hide the selected slides during Printing
+D. to hide the selected slides during Deleting
+Answer: A
+
+
+multiple-choice-questions-of-microsoft-powerpoint-set-5
+
+5.1  What is the shortcut key for repeat the recent find?
+A.  CTRL + F4
+B.  SHIFT + F4
+C.  CTRL + F5
+D.  SHIFT + F5
+Answer: B 
+
+5.2  Which is the Shortcut key to start a presentation from the beginning?
+A.  F5
+B.  ALT + F5      
+C.  CTRL + F5
+D.  SHIFT + F5
+Answer: A 
+
+5.3  Which is the shortcut key to jump to the first slide of the presentation?
+A.  Home
+B.  Alt + Home
+C.  Ctrl + Home
+D.  Shift + Home
+Answer: C 
+
+5.4  To select more than one slide in the presentation
+A.  Just Click on slide
+B.  Ctrl + Click on slide
+C.  Alt + Click on slide
+D.  Shift + Click on slide
+Answer: B 
+
+5.5  To place something in the same position on every slide of presentation automatically, insert into
+A.  Slide master
+B.  Notes master
+C.  Handout master
+D.  None of the above
+Answer: A 
+
+5.6  To edit an already inserted embedded organization chart object by
+A.  Double Click on the organization chart object
+B.  CTRL + Click on the organization chart object
+C.  SHIFT + Click on the organization chart object
+D.  None of the above
+Answer: A 
+
+5.7  Shortcut key to insert a hyperlink in a slide
+A.  Ctrl + H
+B.  Ctrl + K
+C.  Hyperlinks can’t be inserted in slides
+D.  None of the above
+Answer: B 
+
+5.8  To draw the Square box in the slide by selecting rectangle tool
+A.  Holding CTRL & Draw
+B.  Holding ALT & Draw
+C.  Holding SHIFT & Draw
+D.  All of the above
+Answer: C 
+
+5.9  What is the maximum zoom percentage in Microsoft PowerPoint?
+A.  100%
+B.  200%
+C.  300%
+D.  400%
+Answer: D 
+
+5.10  Microsoft PowerPoint can insert objects from the following add-ins?
+A.  Equation Editor
+B.  Organization Chart
+C.  Photo Album
+D.  All of these
+Answer: D
+
+
+multiple-choice-questions-of-microsoft-powerpoint-set-4
+
+4.1  Which type of template provides a design concept, fonts & color scheme for presentation?
+A.  Format
+B.  Design
+C.  Content
+D.  Normal
+Answer: B 
+
+4.2  In Normal view, this tab displays the content of each slide.
+A.  Slides
+B.  View       
+C.  Sort
+D.  Outline
+Answer: D 
+
+4.3  Which is the menu to create a text box on a slide.
+A.  View -> Text Box
+B.  Tools -> Text Box
+C.  Insert -> Text Box
+D.  Format -> Text Box
+Answer: C 
+
+4.4  Which is not the one of view options provided by PowerPoint to look at and modify presentation.
+A.  Slide Show
+B.  Format Slide
+C.  Slide Sorter
+D.  Normal
+Answer: B 
+
+4.5  In PowerPoint, when the mouse pointer appears as this it indicates that the Draw Table feature is on
+A.  Solid plus sign
+B.  Solid arrow
+C.  I-beam
+D.  Pencil
+Answer: D 
+
+4.6  Which is the menu command to recolor a picture on a slide
+A.  Insert -> Picture -> Recolor
+B.  Tools -> Picture -> Recolor
+C.  Format -> Picture -> Recolor
+D.  Edit -> Picture -> Recolor
+Answer: C 
+
+4.7  PowerPoint design templates are stored in a file with this extension.
+A.  .ptt
+B.  .pot
+C.  .ppt
+D.  .dtp
+Answer: B 
+
+4.8  In Power Point, this is a container for text or graphics.
+A.  Slide master
+B.  Table
+C.  Placeholder
+D.  Text box
+Answer: D 
+
+4.9  This is the menu command used to apply a design template in PowerPoint.
+A.  Tools -> Slide Design
+B.  Format -> Slide Design
+C.  Insert  -> Slide Design
+D.  Insert -> Slide Design
+Answer: B 
+
+4.10  This task pane shows the design that is currently being used in a presentation.
+A.  Slide Show
+B.  Slide Style
+C.  Slide Design
+D.  Slide Format
+Answer: C
+
+
+multiple-choice-questions-of-microsoft-powerpoint-set-3
+
+3-1.  The spelling dialog box can be involved by choosing spelling from ________ menu.
+A. Insert
+B. File
+C. Tools
+D. View
+Answer: C 
+
+3-2.  Which key do you press to check spelling?
+A. F3
+B. F5   
+C. F7
+D. F9
+Answer: C 
+
+3-3.  Which PowerPoint feature allows the user to create a simple presentation without having to spend too much time on it?
+A. AutoContent Wizard
+B. Animation
+C. Color Schemes
+D. Chart Wizard
+Answer: A 
+
+3-4.  Which PowerPoint feature adds special effects to modify the appearance of the slides and the timing between each slide?
+A. Color Schemes
+B. Animation
+C. Transition Settings
+D. Handouts
+Answer: C 
+
+3-5.  Slide sorter of PowerPoint is available on _____ menu.
+A. Insert
+B. File
+C. View
+D. Edit
+Answer: C 
+
+3-6.  To print the PowerPoint presentation, press
+A. Ctrl + T
+B. Ctrl + E
+C. Ctrl + S
+D. Ctrl + P
+Answer: D 
+
+3-7.  What is a slide transition?
+A. Overheads
+B. Letters
+C. A special effect used to introduce a slide in a slide show
+D. The way one slide looks
+Answer: C 
+
+3-8.  What does “apply design template” do?
+A. Changes the content of the slide
+B. Adds functionality to the slide
+C. Changes the look of the slide without changing the content
+D. None of the above
+Answer: C 
+
+3-9.  How can you stop a slide show?
+A. Press the right arrow
+B. Press Escape
+C. Press the left arrow
+D. Press the down arrow
+Answer: B 
+
+3-10.  What do you do to start the slide show?
+A. Click on Go
+B. Turn on transition
+C. Click on the Slide Show icon
+D. All of the above
+Answer: C
+
+
+multiple-choice-questions-of-microsoft-powerpoint-set-2
+
+2-1.Â  Slides can have
+A. title, text, graphs
+B. drawn objects, shapes
+C. clipart, drawn art, visual
+D. any of the above
+Answer:1 â D 
+
+2-2.Â  A Chart can be put as a part of the presentation using
+A. Insert -> Pictures â> Chart
+B. Insert â> Chart Â  Â Â 
+C. Edit â> Chart
+D. View -> Chart
+Answer: 2 â A 
+
+2-3.Â  We can replace a font on all slides with another font using the option :
+A. Edit â> Fonts
+B. Tools â> Fonts
+C. Tools -> Replace Fonts
+D. Format -> Replace Fonts
+Answer: 3 â D 
+
+2-4.Â  Which key on the keyboard can be used to view Slide show?
+A. F1
+B. F2
+C. F5
+D. F10
+Answer: C 
+
+2-5.Â  Which option in PowerPoint allows you to create a package of your presentation for showing to another computer?
+A. Save As
+B. Save and Go
+C. Pack and Go
+D. Web and Go
+Answer: 5 â C 
+
+2-6.Â  Which view in Power Point can be used to enter Speaker Comments?
+A. Normal
+B. Slide Show
+C. Slide Sorter
+D. Notes Page view
+Answer: 6 â D 
+
+2-7.Â  Which option can be used to set custom timings for slides in a presentation?
+A. Slider Timings
+B. Slider Timer
+C. Rehearsal
+D. Slide Show Setup
+Answer: C 
+
+2-8.Â  Which option can be used to create a new slide show with the current slides but presented in a different order?
+A. Rehearsal
+B. Custom Slide show
+C. Slide Show Setup
+D. Slide Show View
+Answer: 8 â B 
+
+2-9.Â  Which of the following is an example for Automatic Text formatting?
+A. Underlining Hyperlink
+B. Adjusting extra space
+C. Replacing two â s with a hyphen
+D. All of the above
+Answer: 9 â D 
+
+2-10.Â  Power Point can display data from which of the following add-in software of MS Office?
+A. Equation Editor
+B. Organization Chart
+C. Photo Album
+D. All of these
+Answer: 10 â D
+
+
+multiple-choice-questions-of-microsoft-powerpoint-set-1
+
+1-1.  Power Point presentation is a collection of ________
+A. Slides and Handouts
+B. Speaker’s notes
+C. Outlines
+D. All of the above
+Answer: D 
+
+1-2.  How can the slide show be repeated continuously?
+A. loop continuously until ‘Esc’
+B. repeat continuously    
+C. loop more
+D. none
+Answer: A 
+
+1-3.  From where can we set the timing for each object?
+A. slide show, custom transition
+B. Slide show, Slide transition
+C. slide show, custom animation
+D. view, slide sorter
+Answer: C 
+
+1-4.  The arrangement of elements such as Title and subtitle text, pictures, tables etc. is called :
+A. Layout
+B. Presentation
+C. Design
+D. Scheme
+Answer: A 
+
+1-5.  A File which contains readymade styles that can be used for a presentation is called :
+A. AutoStyle
+B. Template
+C. Wizard
+D. Pre formatting
+Answer: B 
+
+1-6.  After choosing a predefined template, which option has to be chosen to change the background color?
+A. Design Template
+B. Color Scheme
+C. Animation Scheme
+D. Color Effects
+Answer: B 
+
+1-7.  Ellipse Motion is a predefined ________
+A. Design Template
+B. Color Scheme
+C. Animation Scheme
+D. None of these
+Answer: C 
+
+1-8.  Animation Schemes can be applied to ________ in the presentation.
+A. All slides
+B. Select slides
+C. Current Slide
+D. All of the above
+Answer: D 
+
+1-9.  To insert new slide in the current Presentation, we can choose:
+A. Ctrl+M
+B. Ctrl+N
+C. Ctrl+O
+D. Ctrl+F
+Answer: A 
+
+1-10.  To open the existing presentation, press
+A. Ctrl + L
+B. Ctrl + N
+C. Ctrl + A
+D. Ctrl + O
+Answer: D

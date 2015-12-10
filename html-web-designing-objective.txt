@@ -1,0 +1,584 @@
+
+
+multiple-choice-questions-of-html-web-designing-set-8
+
+8-1. What is empty elements in HTML?
+A. An elements with no tag
+B. An elements with no type
+C. An elements with no content
+D. An elements with no comment
+Answer: C 
+
+8-2. What is the use of alt attribute in HTML?
+A. alt attribute specifies an alternate text for an image
+B. alt attribute specifies an alternate link for an image      
+C. alt attribute specifies an alternate image for an image
+D. alt attribute specifies an alternate source for an image
+Answer: A 
+
+8-3. Which of the following is the correct HTML tag to comment in HTML?
+A. <!/ and //>
+B. <!– and –>
+C. <!# and ##>
+D. <!% and %%>
+Answer: B 
+
+8-4. The most common HTML lists are 
+A. Ordered lists
+B. Unordered lists
+C. Random lists
+D. Only A & B
+Answer: D 
+
+8-5. The HTML <div> element is a 
+A. Inline element
+B. Outline element
+C. Block level element
+D. None
+Answer: C 
+
+8-6. What does the DOCTYPE declaration defines in HTML?
+A. it defines the document Property
+B. it defines the document Type
+C. it defines the document Size
+D. it defines the document Style
+Answer: B 
+
+8-7. Which of the following is correct Syntax?
+A. <a href=”http://mcqQuestions.com”>MCQ Questions</a>
+B. <a href link =”http://mcqQuestions.com”>MCQ Questions</a>
+C. <a href target =”http://mcqQuestions.com”>MCQ Questions</a>
+D. <a href=”http://mcqQuestions.com” Title = “MCQ Questions” /a>
+Answer: A 
+
+8-8. Which of the following is the most commnly used HTTP methods?
+A. PRE and POST
+B. GET and SET
+C. ASK and REPLY
+D. GET and POST
+Answer: D 
+
+8-9. In HTML how many headings are defined?
+A. <h1> to <h4>
+B. <h1> to <h5>
+C. <h1> to <h6>
+D. <h1> to <h9>
+Answer: 9- C 
+
+8-10. Which of the following is the correct HTML tag to make a text italic?
+A. <i>
+B. <il>
+C. <itl>
+D. <italic>
+Answer: A
+
+
+multiple-choice-questions-of-html-and-web-designing-set-7
+
+7-1. Which of the following is the correct regarding meta tag in HTML?
+A. <meta> … </meta>
+B. <meta name = ” ” />
+C. <metadata> … </metadata>
+D. <metadata name = ” ” />
+Answer: B 
+
+7-2. Which of the following is correct to set “Black” color as Background of page?
+A. <body bgcolor = “#000000″>
+B. <body background = “#000000″>            
+C. <body Background color = “#000000″>
+D. All of Above
+Answer: A 
+
+7-3. Which of the following is correct to align H1 tag to Right Alignment
+A. <h1 align = “right”> … </h1>
+B. <h1 alignment = “right”> … </h1>
+C. <h1 tag align = “right”> … </h1>
+D. H1 cannot make Right Alignment
+Answer: A 
+
+7-4. Which of the following is correct to change font face in Web Page
+A. <font = “font name”> … </font>
+B. <font name = “font name”> … </font>
+C. <font face = “font name”> … </font>
+D. Font Face cannot change
+Answer: C 
+
+7-5. Which of the following is incorrect regarding Logical styles?
+A. Code looks like teletype
+B. Sample looks like teletype
+C. Keyboard looks like teletype
+D. Variable looks like teletype
+Answer: D 
+
+7-6. Which of the following is correct character entities for “Copyright” symbol?
+A. &#149;
+B. &#159;
+C. &#169;
+D. &#179;
+Answer: C 
+
+7-7. Which tag is used to display Preformatted texts?
+A. <pre> … </ pre>
+B. <prefor> … </ prefor>
+c. <pre text> … </ pre text>
+D. <pre format> … </ pre format>
+Answer: A 
+
+7-8. Which is the correct to create an Arabic numeral list
+A. <ul type=”1″>
+B. <ol type=”1″>
+C. <il type=”1″>
+D. <li type=”1″>
+Answer: B 
+
+7-9. How to add alternative text for an Image?
+A. <img src = “http://www.ghumti.com/logo.png” alternate = “Logo of website” />
+B. <img src = “http://www.ghumti.com/logo.png” alt text = “Logo of website” />
+C. <img src = “http://www.ghumti.com/logo.png” alternate text = “Logo of website” />
+D. <img src = “http://www.ghumti.com/logo.png” alt = “Logo of website” />
+Answer: D 
+
+7-10. How to embedded Audio Files in HTML?
+A. <embed src = “myfavsong.mid” width = “100” height = “15”>
+B. <embed sound = “myfavsong.mid” width = “100” height = “15”>
+C. <embed audio = “myfavsong.mid” width = “100” height = “15”>
+D. <embed music = “myfavsong.mid” width = “100” height = “15”>
+Answer: A
+
+
+multiple-choice-questions-of-web-designing-set-6
+
+6-1. Which HTML Tag will use to scroll a text in web page?
+A. <marquee> … </marquee>
+B. <scroll> … </scroll>
+C. <round> … </round>
+D. <go> … </go>
+Answer: A 
+
+6-2. Which organization defines the Web Standards?
+A. Microsoft Corporation
+B. IBM Corporation            
+C. World Wide Web Consortium
+D. Apple Inc.
+Answer: C 
+
+6-3. How to set a picture as a background web page?
+A. <body background= “backpic.gif”>
+B. <body background image= “backpic.gif”>
+C. <background= “backpic.gif”>
+D. <background image= “backpic.gif”>
+Answer: A 
+
+6-4. Which of following HTML Tag will inserting a line break?
+A. <p />
+B. <lb />
+C. <br />
+D. <break />
+Answer: C 
+
+6-5. Which of the following tags are related to Table in HTML ?
+A. <table> <row> <column>
+B. <table> <tr> <td>
+C. <table> <head> <body>
+D. <table> <header> <footer>
+Answer: B 
+
+6-6. Which of the following is correct HTML for inserting an image?
+A. <image source= “www.ghumti.com/ganesh.jpg” alt= “This is me” />
+B. <img src= “www.ghumti.com/ganesh.jpg” alt= “This is me” />
+C. <img source= “www.ghumti.com/ganesh.jpg” alt= “This is me” />
+D. <img alt= “This is me”>www.ghumti.com/ganesh.jpg</img>
+Answer: B 
+
+6-7. Choose the correct HTML tag to left-align the content of a cell.
+A. <tdleft>
+B. <td leftalign>
+C. <td valign= “left”>
+D. <td align= “left”>
+Answer: D 
+
+6-8. Which tag is used to lists the items with bullets?
+A. <bullet>…</bullet>
+B. <list>…</list>
+C. <ul>…</ul>
+D. <ol>…</ol>
+Answer: C 
+
+6-9. Is it possible to insert a table within another table?
+A. Yes, but there must be exactly 2 rows and 2 columns in first table.
+B. Yes, table can be inserted into cell of another table.
+C. Yes, but there must be no border in second table.
+D. No, it’s not possible.
+Answer: B 
+
+6-10. What is the usage of alt value in <img> tag?
+A. Alternative text for an Image
+B. Alternative source of an Image
+C. Caption of an Image
+D. All of above
+Answer: A
+
+
+multiple-choice-questions-of-web-designing-set-5
+
+5.1  How to define target in new page in HTML?
+A.  <a href = “http://www.ghumti.com/” target = “blank”>Click Here</a>
+B.  <a href = “http://www.ghumti.com/” target = “_blank”> Click Here </a>
+C.  <a href = “http://www.ghumti.com/” target = “#blank”> Click Here </a>
+D.  <a href = “http://www.ghumti.com/” target = “@blank”> Click Here </a>
+Answer: B 
+
+5.2  In HTML, Uniform Resource Identifier (URI) is used to
+A.  To create a frame document .
+B.  To create a image map in the webpage.        
+C.  To customize the image in the webpage.
+D.  To identify a name or a resource on the internet.
+Answer: D 
+
+5.3  CSS is an acronym for
+A.  Cascading Style Sheet
+B.  Costume Style Sheet
+C.  Cascading System Style
+D.  None of the Above
+Answer: A 
+
+5.4  Which of the following protocol is not used in the Internet
+A.  Telnet
+B.  WIRL
+C.  HTTP
+D.  Gopher
+Answer: B 
+
+5.5  Who invented World Wide Web (WWW)?
+A.  Blaise Pascal
+B.  Charles Babbage
+C.  Herman Hollerith
+D.  Tim Berners-Lee
+Answer: D 
+
+5.6  What is the use of Web Font in HTML ?
+A.  that is the core font that is use to develop Web Pages.
+B.  that enables to use fonts over the Web without installation.
+C.  that is the special font that developed by Microsoft Corp.
+D.  All of the Above.
+Answer: B 
+
+5.7  What is <tt> tag in HTML?
+A.  It renders fonts as teletype text font style.
+B.  It renders fonts as truetype text font style.
+C.  It renders fonts as truncate text font style.
+D.  None of the Above.
+Answer: A 
+
+5.8  What is the use of Forms in HTML?
+A.  to display contents of email.
+B.  to display animation effect.
+C.  to collect user’s input.
+D.  None of the Above.
+Answer: C 
+
+5.9  What is the use of iframe in HTML?
+A.  to display a web page within a web page.
+B.  to display a web page with animation effect.
+C.  to display a web page without browser.
+D.  All of the Above.
+Answer: A 
+
+5.10  FTP is an acronym for
+A.  File Transaction Protocol
+B.  File Transmission Protocol
+C.  File Translation Protocol
+D.  File Transfer Protocol
+Answer: D
+
+
+multiple-choice-questions-of-web-designing-set-4
+
+4.1  What is the correct syntax in HTML for creating a link on a webpage?
+A. <LINK SRC= “ghumti.html”>
+B. <BODY LINK = “ghumti.html”>
+C. <A SRC = “ghumti.html” >
+D. < A HREF = “ghumti.html”>
+Answer: D 
+
+4.2  Which of the following is an attribute of <Table> tag?
+A. SRC
+B. LINK     
+C. CELLPADDING
+D. BOLD
+Answer: C 
+
+4.3  Choose the correct HTML tag to make the text bold?
+A. <B>
+B. <BOLD>
+C. <STRONG>
+D. Both A) and C)
+Answer: D 
+
+4.4  Which HTML tag would be used to display power in expression (A+B)2 ?
+A. <SUP>
+B. <SUB>
+C. <B>
+D. <P>
+Answer: A 
+
+4.5  Choose the correct HTML code to create an email link?
+A. <A HREF = “ganesh@ghumti.com”></A>
+B. <A HREF = “mailto:ganesh@ghumti.com”></A>
+C. <MAIL>ganesh@ghumti.com </MAIL>
+D. <A MAILHREF = “ganesh@ghumti.com”></A>
+Answer: B 
+
+4.6  Choose the correct HTML tag for the largest heading?
+A. <H1>
+B. <H6>
+C. <H10>
+D. <HEAD>
+Answer: A 
+
+4.7  Output of XML document can be viewed in a
+A. Word Processor
+B. Web browser
+C. Notepad
+D. None of the above
+Answer: B 
+
+4.8  What is the correct way of describing XML data?
+A. XML uses a DTD to describe data
+B. XML uses a description node to describe data
+C. XML uses XSL to describe the data
+D. XML uses a validator to describe the data
+Answer: C 
+
+4.9  Comments in XML document is given by:
+A. <?_ _ _ _>
+B. <!_ _ _ _!>
+C. <!_ _ _ _>
+D. </_ _ _ _>
+Answer: C 
+
+4.10  Which statement is true?
+A. An XML document can have one root element
+B. An XML document can have one child element
+C. XML elements have to be in lower case
+D. All of the above
+Answer: A
+
+
+multiple-choice-questions-of-web-designing-set-3
+
+3-1.  With regards to e-mail addresses:
+A. they must always contain an @ symbol
+B. they can never contain spaces
+C. they are case-insensitive
+D. all of the above
+Answer: D 
+
+3-2.  A homepage is __________
+A. an index of encyclopedia articles
+B. where all Internet data is stored       
+C. required for access to the Internet
+D. the first page of a website
+Answer: D 
+
+3-3.  Which of the following is used to explore the Internet?
+A. Browser
+B. Spreadsheet
+C. Clipboard
+D. Draw
+Answer: A 
+
+3-4.  What is Internet Explorer?
+A. An Icon
+B. A File Manager
+C. A Browser
+D. The Internet
+Answer: C 
+
+3-5.  What do I need to get onto the Internet?
+A. Computer
+B. Modem
+C. Browser
+D. All of the above
+Answer: D 
+
+3-6.  What is an ISP?
+A. Internet System Protocol
+B. Internal System Program
+C. Internet Service Provider
+D. None of the above
+Answer: C 
+
+3-7.  Which of the following is valid IP address?
+A. 984.12.787.76
+B. 192.168.321.10
+C. 1.888.234.3456
+D. 192.168.56.115
+Answer: D 
+
+3-8.  Which is not a domain name extension
+A. .mil
+B. .org
+C. .int
+D. .com
+Answer: C 
+
+3-9.  What is a FTP program used for?
+A. Transfer files to and from an Internet Server
+B. Designing a website
+C. Connecting to the internet
+D. None of the above
+Answer: A 
+
+3-10.  Which of the following are commonly found on web pages?
+A. internet
+B. hyperlinks
+C. intranet
+D. all of the above
+Answer: B
+
+
+multiple-choice-questions-of-web-designing-set-2
+
+2-1.  <TITLE> … </TITLE> tag must be within ________
+A. Title
+B. Form
+C. Header
+D. Body
+Answer: C 
+
+2-2.  Text within <EM> … </EM> tag is displayed as ________
+A. bold
+B. italic     
+C. list
+D. indented
+Answer: B 
+
+2-3.  Text within <STRONG> … </STRONG> tag is displayed as ________
+A. bold
+B. italic
+C. list
+D. indented
+Answer: A 
+
+2-4.  <UL> … </UL> tag is used to ________
+A. display the numbered list
+B. underline the text
+C. display the bulleted list
+D. bold the text
+Answer: C 
+
+2-5.  Which tag is used to display the numbered list?
+A. <OL></OL>
+B. <DL></DL>
+C. <UL></UL>
+D. <LI></LI>
+Answer: A 
+
+2-6.  Which tag is used to display the large font size?
+A. <LARGE></LARGE>
+B. <BIG></BIG>
+C. < SIZE ></SIZE>
+D. <FONT></FONT>
+Answer: B 
+
+2-7.  <SCRIPT> … </SCRIPT> tag can be placed within ________
+A. Header
+B. Body
+C. both A and B
+D. none of the above
+Answer: C 
+
+2-8.  using <P> tag will 
+A. start a new paragraph
+B. break the line
+C. end the current paragraph
+D. none of the above
+Answer: A 
+
+2-9.  <TD> … </TD> tag is used for ________
+A. Table heading
+B. Table Records
+C. Table row
+D. none of the above
+Answer: B 
+
+2-10.  Which is true to change the text color to red?
+A. <BODY BGCOLOR=RED>
+B. <BODY TEXT=RED>
+C. <BODY COLOR=RED>
+D. none of the above
+Answer: B
+
+
+multiple-choice-questions-of-web-designing-set-1
+
+1-1.  What is the full form of HTML?
+A. Hyper text markup language
+B. Hyphenation text markup language
+C. Hyphenation test marking language
+D. Hyper text marking language
+Answer: A 
+
+1-2.  What is the full form of HTTP?
+A. Hyper text transfer protocol
+B. Hyper text transfer package     
+C. Hyphenation text test program
+D. none of the above
+Answer: A 
+
+1-3.  What is a search engine?
+A. a program that searches engines
+B. a web site that searches anything
+C. a hardware component
+D. a machinery engine that search data
+Answer: B 
+
+1-4.  What is the full form of TCP/IP?
+A. transmission control protocol / internet protocol
+B. telephone call protocol / international protocol
+C. transport control protocol / internet protocol
+D. none of the above
+Answer: A 
+
+1-5.  HTML document start and end with which tag pairs?
+A. <HEAD>….</HEAD>
+B. <BODY>….</BODY>
+C. <HTML>….</HTML>
+D. <WEB>….</WEB>
+Answer: C 
+
+1-6.  Which tag is used to create body text in HTML?
+A. <HEAD>
+B. <TEXT>
+C. <TITLE>
+D. <BODY>
+Answer: D 
+
+1-7.  “Yahoo”, “Infoseek” and “Lycos” are _________?
+A. Search Engines
+B. Browsers
+C. News groups
+D. None of the above
+Answer: A 
+
+1-8.  What does the .com domain represents?
+A. Education domain
+B. Commercial domain
+C. Network
+D. None of the above
+Answer: B 
+
+1-9.  In Satellite based communication, VSAT stands for?
+A. Very Small Aperture Terminal
+B. Varying Size Aperture Terminal
+C. Very Small Analog Terminal
+D. None of the above
+Answer: A 
+
+1-10.  Outlook Express is a _________
+A. E-Mail Client
+B. Browser
+C. Search Engine
+D. None of the above
+Answer: A

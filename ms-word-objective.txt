@@ -1,0 +1,1073 @@
+
+
+multiple-choice-questions-of-microsoft-word-set-15
+
+15-1. What is a Document Outline in Word 2010?
+A. A structural view of a document with headings at various levels with associated text
+B. A structural view of a document with headings at various levels as it prints
+C. A structural view of a document with headings in full screen
+D. A structural view of a document with headings in Web Browser
+Answer: A 
+
+15-2. How to split a table in Word 2010?
+A. Tables group on the Insert ribbon and click the Split Table button
+B. Split group on the Layout ribbon and click the Split Table button 
+C. Merge group on the Layout ribbon and click the Split Table button
+D. Split group on the Table ribbon and click the Split Table button
+Answer: C 
+
+15-3. How to change row height in Word 2010?
+A. Edit Table from the Layout ribbon, select Row tab
+B. Properties from the Layout ribbon, select Row tab
+C. Edit Height from the Design ribbon, select Row tab
+D. Row Height from the Table ribbon, select Row tab
+Answer: B 
+
+15-4. How to add a Border to a Paragraph in Word 2010?
+A. Borders button in the Edit group on the Insert ribbon
+B. Borders button in the Insert group on the Home ribbon
+C. Borders button in the Format group on the Insert ribbon
+D. Borders button in the Paragraph group on the Home ribbon
+Answer: D 
+
+15-5. What is a Template in Microsoft Word?
+A. A template is a long document which contain several subdocuments
+B. A template is a structure for a particular type of document
+C. A template is a list of Styles and Headings
+D. None of above
+Answer: B 
+
+15-6. How to create columns in Word 2010?
+A. Columns button on the Page Setup group in Page Layout ribbon
+B. Columns button on the Pages group in Insert ribbon
+C. Columns button on the Styles group in Home ribbon
+D. Columns button on the Show group in View ribbon
+Answer: A 
+
+15-7. How to convert table to text in Word 2010?
+A. View ribbon – Show – Convert button
+B. Layout ribbon – Data group – Convert button
+C. Insert ribbon – Table group – Convert button
+D. Page Layout ribbon – Arrange – Convert button
+Answer: B 
+
+15-8. What is the use of a master document in Word 2010?
+A. It organize and maintain a Fonts & Pictures by creating a master folder
+B. It organize and maintain a Heading and Styles by creating a master list
+C. It organize and maintain a Long document by dividing it into several subdocuments
+D. It organize and maintain a Styles and Links by creating a separate master document
+Answer: C 
+
+15-9. How to insert Section Break in Microsoft Word 2010?
+A. Insert ribbon – Pages group – Page Break button
+B. View ribbon – Document Views group – Breaks button
+C. References ribbon – Index group – Insert Index button
+D. Print Layout ribbon – Page Setup group – Breaks button
+Answer: D 
+
+15-10. What is a file extension of Templates in Microsoft Word?
+A. .Dtep
+B. .Dott
+C. .Dotx
+D. .Doct
+Answer: C
+
+
+multiple-choice-questions-of-microsoft-word-set-14
+
+1. What is the shortcut key to split a table?
+A. Ctrl + Alt + Enter
+B. Ctrl + Shift + Enter
+C. Alt + Shift + Enter
+D. Alt + Space + Enter
+Answer: B 
+
+2. Page break is not a Section break
+A. True
+B. False        
+Answer: A 
+
+3. Which of the following is not the Section Break Option?
+A. Next Page
+B. Previous Page
+C. Odd Page
+D. Even Page
+Answer: B 
+
+4. What is a Document Outline View?
+A. A preview in a full screen
+B. A preview with margins
+C. A View with a margins and gutter
+D. A view with a structure of heading at various levels
+Answer: D 
+
+5. What is the use of Document Map?
+A. to quickly format the document
+B. to quickly print required page
+C. to quickly navigate the document
+D. to quickly correct spelling mistakes
+Answer: C 
+
+6. What is the shortcut key to display field codes?
+A. Alt + F9
+B. Ctrl + F9
+C. Shift + F9
+D. Space + F9
+Answer: A 
+
+7. What is the shortcut key to show font dialog box?
+A. Ctrl + D
+B. Ctrl + Shift + F
+C. Ctrl + Shift + P
+D. All of the above
+Answer: D 
+
+8. How to remove all character formats?
+A. Shift + Spacebar
+B. Shift + Enter
+C. Ctrl + Spacebar
+D. Ctrl + Enter
+Answer: C 
+
+9. Which of the following is true regarding page Orientation of a Document?
+A. Page Orientation can be change at any time
+B. Page Orientation of document determines by printer
+C. Page Orientation must be set before start typing
+D. Page Orientation of a document cannot be changed.
+Answer: A 
+
+10. Which of the following is Page Orientation?
+A. Landscape
+B. Portrait
+C. Gutter
+D. Only A & B
+Answer: D
+
+
+multiple-choice-questions-of-microsoft-word-set-13
+
+13-1. What is the use of bookmarks in Microsoft Word?
+A. To easily correct the spelling errors
+B. To quickly jump to a specific location in the document
+C. To quickly jump to the ending of the document
+D. To create a link within the document
+Answer: B 
+
+13-2. What is the shortcut-key for manual line break?
+A. CTRL + Enter
+B. Alt + Enter  Â  Â  Â  Â  Â  Â 
+C. Shift + Enter
+D. Space + Enter
+Answer: C 
+
+13-3. Which feature helps you to inserts the contents of the Clipboard as text without any formatting
+A. Paste Special
+B. Format Painter
+C. Page Setup
+D. Styles
+Answer: A 
+
+13-4. Which feature is used to replace straight quotes with smart quotes as you type?
+A. Auto Correct as you type
+B. Auto Change as you type
+C. Auto Format as you type
+D. Smart Tags as you type
+Answer: C 
+
+13-5. Which of the following is correct regarding Underline in MS-Word?
+A. Color of Underline can be change
+B. Style of Underline can be change
+C. Underline can be set using by shortcut key
+D. All of the above 
+Answer: D 
+
+13-6. How will MS Word will respond in repeated word.
+A. A Red wavy line under the repeated word
+B. A Green wavy line under the repeated word
+C. A Blue wavy line under the repeated word
+D. None of the above
+Answer: A 
+
+13-7. Tabs stop position cannot be the following alignment
+A. Decimal Alignment
+B. Center Alignment
+C. Bar Alignment
+D. Justify Alignment
+Answer: D 
+
+13-8. How to use Format Painter multiple times
+A. By Click on Lock Format Painter Icon
+B. By Double Click on the Format Painter Icon
+C. By Selecting Edit -> Format Painter -> Multiple Use
+D. Format Painter cannot be use multiple times
+Answer: B 
+
+13-9. Gutter position can be set in following positions
+A. Left & Right
+B. Left & Top
+C. Left & Bottom
+D. Left Only
+Answer: B 
+
+13-10. What is the use of “All Caps” feature in MS-Word?
+A. It changes all selected text into Capital Letter
+B. It adds captions for selected Image
+C. It shows all the image captions
+D. None of the above
+Answer: A
+
+
+multiple-choice-questions-of-microsoft-word-shortcut-keys-set-12
+
+12-1. “Ctrl + Backspace” is used to
+A. Delete the single letter just before the cursor
+B. Delete the single letter just after the cursor
+C. Delete the word just before the cursor
+D. Delete the word just after the cursor
+Answer: C 
+
+12-2. “Ctrl + Delete” is used to
+A. Delete the word just after the cursor
+B. Delete the word just before the cursor         
+C. Delete the single letter just after the cursor
+D. Delete the single letter just before the cursor
+Answer: A 
+
+12-3. “Ctrl + Home” is used to
+A. Moves the cursor to the beginning of Document
+B. Moves the cursor to the beginning of Line
+C. Moves the cursor to the beginning of Paragraph
+D. All of the above
+Answer: A 
+
+12-4. “Ctrl + End” is used to
+A. Moves the cursor to the end of Line
+B. Moves the cursor to the end of Document
+C. Moves the cursor to the end of Paragraph
+D. None of the Above
+Answer: B 
+
+12-5. “Ctrl + PageUp” is used to
+A. Moves the cursor one Page Up
+B. Moves the cursor one Paragraph Up
+C. Moves the cursor one Screen Up
+D. Moves the cursor one Line Up
+Answer: A 
+
+12-6. “Ctrl + PageDown” is used to
+A. Moves the cursor one Paragraph Down
+B. Moves the cursor one Page Down
+C. Moves the cursor one Line Down
+D. Moves the cursor one Screen Down
+Answer: B 
+
+12-7. “Ctrl + Left Arrow” is used to
+A. Moves the cursor beginning of the Line
+B. Moves the cursor one word left
+C. Moves the cursor one paragraph up
+D. Moves the cursor one paragraph down
+Answer: B 
+
+12-8. “Ctrl + Right Arrow” is used to
+A. Moves the cursor one word right
+B. Moves the cursor end of the line
+C. Moves the cursor end of the document
+D. Moves the cursor one Paragraph down
+Answer: A 
+
+12-9. “Ctrl + Up Arrow” is used to
+A. Moves the cursor one page up
+B. Moves the cursor one line up
+C. Moves the cursor one screen up
+D. Moves the cursor one paragraph up
+Answer: D 
+
+12-10. “Ctrl + Down Arrow” is used to
+A. Moves the cursor one paragraph down
+B. Moves the cursor one line down
+C. Moves the cursor one page down
+D. Moves the cursor one screen down
+Answer: A
+
+
+multiple-choice-questions-of-microsoft-word-shortcut-keys-set-11
+
+11-1. Ctrl + U
+A. Undelete the previously deleted text
+B. Undo the last changes
+C. Underline the document name
+D. Underline the selected text
+Answer: D 
+
+11-2. Ctrl + V
+A. Paste Texts in the beginning of Document
+B. Paste Images in the beginning of Document Â  Â  Â  Â 
+C. Paste Tables at the middle of Document
+D. None of the above
+Answer: D 
+
+11-3. Ctrl + W
+A. Save and Print the Document
+B. Save and Close Word Application
+C. Save and Close document
+D. Without Save, Close Document
+Answer: C 
+
+11-4. Ctrl + X
+A. Close Document
+B. Close Word Application
+C. Cut the Selected Contents
+D. Copy the Selected Contents
+Answer: C 
+
+11-5. Ctrl + Y
+A. Undo the last Action
+B. Repeat the last Action
+C. Delete the last page
+D. Delete the first page
+Answer: B 
+
+11-6. Ctrl + Z
+A. Undo the last Action
+B. Redo the last Action
+C. Add the new page
+D. Paste the contents from clipboard
+Answer: A 
+
+11-7. Page Up Key
+A. Moves the cursor one line up
+B. Moves the cursor one screen up
+C. Moves the cursor one page up
+D. Moves the cursor one paragraph up
+Answer: B 
+
+11-8. Page Down Key
+A. Moves the cursor one line down
+B. Moves the cursor one page down
+C. Moves the cursor one screen down
+D. Moves the cursor one paragraph down
+Answer: C 
+
+11-9. Home Key
+A. Moves the cursor beginning of the document
+B. Moves the cursor beginning of the paragraph
+C. Moves the cursor beginning of the screen
+D. Moves the cursor beginning of the line
+Answer: D 
+
+11-10. End Key
+A. Moves the cursor end of the line
+B. Moves the cursor end of the document
+C. Moves the cursor end of the paragraph
+D. Moves the cursor end of the screen
+Answer: A
+
+
+multiple-choice-questions-of-microsoft-word-shortcut-keys-set-10
+
+10-1. Ctrl + K
+A. Insert Page Humber
+B. Insert Hyperlink
+C. Insert Header
+D. Insert Footer
+Answer: B 
+
+10-2. Ctrl + L
+A. Left Align
+B. Left Indent Â  Â  Â  Â 
+C. Increase Left Margin
+D. Decrease Left Margin
+Answer: A 
+
+10-3. Ctrl + M
+A. New Document
+B. Close Document
+C. Right Indent
+D. Left Indent
+Answer: D 
+
+10-4. Ctrl + N
+A. Save Document
+B. Open Document
+C. New Document
+D. Close Document
+Answer: C 
+
+10-5. Ctrl + O
+A. Save Document
+B. Print Document
+C. Close Document
+D. Open Document
+Answer: D 
+
+10-6. Ctrl + P
+A. Open Paragraph Dialog Box
+B. Open Page Format Dialog Box
+C. Open Save Dialog Box
+D. Open Print Dialog box
+Answer: D 
+
+10-7. Ctrl + Q
+A. Paragraph formatting (Line Space and Paragraph Space)
+B. Close Word Application without saving Document
+C. Print Whole Document without confirmation
+D. Does nothing
+Answer: A 
+
+10-8. Ctrl + R
+A. Re-Open the last closed document
+B. Re-Print the last printed page
+C. Re-Apply the last paragraph formatting
+D. Right align the selected Paragraph
+Answer: D 
+
+10-9. Ctrl + S
+A. Save Document with different name
+B. Save Document with same name
+C. Save Document and Close Word Application
+D. Save Document and Print whole Pages
+Answer: B 
+
+10-10. Ctrl + T
+A. Hanging Indent
+B. Left Indent
+C. Open Tabs Dialog box
+D. Terminate all opened Dialog box
+Answer: A
+
+
+multiple-choice-questions-of-microsoft-word-shortcut-keys-set-9
+
+9-1. Ctrl + A
+A. Align Right
+B. Select All
+C. Change font
+D. Save document
+Answer: B 
+
+9-2. Ctrl + B
+A. Search the selected text
+B. Paste the selected text        
+C. Bold the selected text
+D. Open the specified file
+Answer: C 
+
+9-3. Ctrl + C
+A. Copy the selected text
+B. Cut the selected text
+C. Print the selected text
+D. Paste the selected text
+Answer: A 
+
+9-4. Ctrl + D
+A. Delete Dialog Box
+B. Font Dialog Box
+C. Delete All
+D. Do nothing
+Answer: B 
+
+9-5. Ctrl + E
+A. Exit Application
+B. Select All
+C. Clear All
+D. Align Center
+Answer: D 
+
+9-6. Ctrl + F
+A. Open Find and Replace Dialog box with activating Find Tab
+B. Open Page Setup Dialog box with activating Layout Tab
+C. Open Font Dialog Box with activating Font tab
+D. Open File Save as Dialog box
+Answer: A 
+
+9-7. Ctrl + G
+A. Open Paragraph Dialog box activating Goto Tab
+B. Open Page Setup Dialog box activating Goto Tab
+C. Open Find and Replace Dialog box with activating Goto Tab
+D. Open Goto Dialog box
+Answer: C 
+
+9-8. Ctrl + H
+A. Open Find and Replace Dialog box with activating Replace Tab
+B. Open Format Dialog box activating Insert Hyper Link tab
+C. Open Insert Dialog box activating Insert Hyper Link Tab
+D. Open Insert Hyper Link Dialog box
+Answer: A 
+
+9-9. Ctrl + I
+A. Italic
+B. Left Indent
+C. Save Document
+D. Close Document
+Answer: A 
+
+9-10. Ctrl + J
+A. Align Justify
+B. Insert Hyperlink
+C. Search
+D. Print
+Answer: A
+
+
+multiple-choice-questions-of-microsoft-word-set-8
+
+8.1 What is the shortcut key to “Center Align” the selected text?
+A. Ctrl + C
+B. Ctrl + E
+C. Ctrl + F
+D. None of above
+Answer: B 
+
+8.2 What is the shortcut key to “Undo” the last action in a document?
+A. Ctrl + X
+B. Ctrl + Y     
+C. Ctrl + Z
+D. None of above
+Answer: C 
+
+8.3 What is the shortcut key to “Insert Hyperlink” in a document?
+A. Ctrl + H
+B. Ctrl + L
+C. Ctrl + K
+D. None of above
+Answer: C 
+
+8.4 What is the shortcut key for “Find and Replace” dialog box?
+A. Ctrl + F
+B. Ctrl + R
+C. Ctrl + H
+D. Ctrl + Shift + F
+Answer: C 
+
+8.5 What is the shortcut key for Spelling Check in document?
+A. F7
+B. Shift + F7
+C. Ctrl + F7
+D. Alt + F7
+Answer: A 
+
+8.6 What is the shortcut key to Update Formula in a table?
+A. F9
+B. Alt + F9
+C. Ctrl + F9
+D. Shift + F9
+Answer: A 
+
+8.7 What is the shortcut key to Close Active Document in Microsoft Word?
+A. Ctrl + F4
+B. Shift + F4
+C. Ctrl + Shift + F4
+D. None of above
+Answer: A 
+
+8.8 What is the shortcut key for “Font” dialog box?
+A. Ctrl + F
+B. Ctrl + D
+C. Ctrl + G
+D. None of the above
+Answer: B 
+
+8.9 What is the shortcut key for “Superscript” the selected text?
+A. Ctrl + =
+B. Ctrl + –
+C. Ctrl + Shift + =
+D. Ctrl + Shift + –
+Answer: C 
+
+8.10 What is the shortcut key for “Subscript” the selected text?
+A. Ctrl + =
+B. Ctrl + –
+C. Ctrl + Shift + =
+D. Ctrl + Shift + –
+Answer: A
+
+
+multiple-choice-questions-of-microsoft-word-set-7
+
+
+Answer: C 
+
+7-3. Which menu do you choose to create header? (in MS Office 2003)
+A. format, header and footer
+B. view, header
+C. insert, header and footer
+D. view, header and footer
+Answer: D 
+
+7-4. Which menu do you choose to shade words and paragraph?
+A. format, borders and shading
+B. insert, borders and shading
+C. view, shading
+D. none of the above
+Answer: D 
+
+7-5. to view headers and footers, you must switch to
+A. normal view
+B. print layout view
+C. print preview mode
+D. both B and C
+Answer: A 
+
+7-6. Which of the following can you change using the page setup dialog box?
+A. margins
+B. page orientation
+C. vertical alignment
+D. all of the above
+Answer: D 
+
+7-7. By default, your document prints with:
+A. 1 inch top and bottom margins
+B. a portrait orientation
+C. 1.25 inches left and right margins
+D. all of the above
+Answer: D 
+
+7-8. switching between portrait and landscape modes involves the:
+A. header and footer toolbar
+B. print layout view
+C. page setup dialog box
+D. none of the above
+Answer: D 
+
+7-9. What happens when you insert an AutoShape by simply clicking in the document?
+A. it appears near the insertion point
+B. it is inserted in its default size
+C. is selected
+D. all of the above
+Answer: C 
+
+7-10. What must be used to control the layering of objects?
+A. formatting toolbar
+B. picture toolbar
+C. drawing toolbar
+D. image toolbar
+Answer: D 
+
+ 
+Answer: C
+
+
+multiple-choice-questions-of-microsoft-word-set-6
+
+6-3. Which of the following operations moves text from clipboard?
+A. Copy
+B. Paste
+C. Drag and Drop
+D. Cut
+Answer: B 
+
+6-4. Which of the following provides a list ofx synonyms?
+A. Find command
+B. Replace Command
+C. Thesaurus
+D. Spelling and Grammar
+Answer: C 
+
+6-5. Which of the following helps to reduce spelling error in the document?
+A. Auto Format
+B. Auto Correct
+C. Smart Tags
+D. Auto Text
+Answer: B 
+
+6-6. Auto text and Auto correct are ___________ tools.
+A. styling
+B. editing
+B. designing
+D. none of the above
+Answer: C 
+
+6-7. Which of the following enables you to make multiple changes in a document at once?
+A. find command
+B. Replace command
+C. Drag and Drop
+D. copy command
+Answer: B 
+
+6-8. Which of the following commands should you always use before submitting a document to others?
+A. find command
+B. Replace command
+C. Spelling and Grammar
+D. Thesaurus
+Answer: B 
+
+6-9. Which of the following enables you to paste data multiple times?
+A. Windows Clipboard
+B. Office Clipboard
+C. Both Windows & Office Clipboard
+D. None of the all
+Answer: B 
+
+6-10. Which of the following do you use to change margins?
+A. formatting toolbar
+B. page setup dialog box
+C. Standard toolbar
+D. paragraph dialog box
+Answer: C 
+
+ 
+Answer: C 
+
+ 
+Answer: B
+
+
+multiple-choice-questions-of-microsoft-word-set-5
+
+5-1. When sharing data in Office, the ________ document is the document in which the data was first entered.
+A. source
+B. destination
+C. original
+D. primary
+Answer: A 
+
+5-2. Which command is used to establish a link between a source document and a destination document?
+A. Tools, Link, Documents
+B. Tools, Link 
+C. Edit, Link
+D. Edit, Paste Special
+Answer: D 
+
+5-3. Which option enables automatic updates in destination documents?
+A. embedding
+B. objects
+C. links
+D. relationships
+Answer: C 
+
+5-4. Which is an Office feature that makes it easy to edit embedded objects? 
+A. pasting
+B. visual editing
+C. tools, update, links
+D. edit, links
+Answer: B 
+
+5-5. Which is true when you insert an excel worksheet into a word document?
+A. word is the destination document
+B. excel is the destination document
+C. the worksheet is the destination document
+D. the document is the source document
+Answer: A 
+
+5-6. What would you do when you want to update the data in an embedded worksheet range?
+A. double click the worksheet range object
+B. right click worksheet range object & choose format object
+C. edit the data in the destination document
+D. edit the data in the source document.
+Answer: A 
+
+5-7. Which can be used for quick access to commonly used commands and tools?
+A. Status bar
+B. Tool bar
+C. Menu bar
+D. Title bar
+Answer: B 
+
+5-8. With which view can you see how text and graphics will appear on the printed page?
+A. Normal
+B. Print Layout
+C. Outline
+D. Web Layout
+Answer: B 
+
+5-9. Which simplifies the process of formatting text if the same formatting is required in more than one location?
+A. Auto Text
+B. Format Painter
+C. Font dialog box
+D. None of the above
+Answer: B 
+
+5-10. Which of the following is best for quick copy operation?
+A. Copy and Paste
+B. Windows Clipboard
+C. Drag and Drop
+D. Auto Text
+Answer: C
+
+
+multiple-choice-questions-of-microsoft-word-set-4
+
+4-1. When typing in a word field manually, what must you press to insert the codeâs braces?
+A. Ctrl + F6
+B. Ctrl + F9
+C. Alt + F11
+D. Shift + F12
+Answer: B 
+
+4-2. A word field may consist of an optional field instruction called a(n) ______ 
+A. subdocument
+B. symbol 
+C. signal
+D. switch
+Answer: D 
+
+4-3. Footnotes, endnotes, and indexes are all inserted as __________ 
+A. bookmarks
+B. cross-references
+C. hyperlinks
+D. word fields
+Answer: D 
+
+4-4. Before creating a master document, you must switch to _________ 
+A. Normal View
+B. Outline View
+C. Web Layout View
+D. Print Layout View
+Answer: B 
+
+4-5. Before moving a subdocument to another location within a master document, you must switch to _________
+A. Normal View
+B. Outline View
+C. Web Layout View
+D. Print Layout View
+Answer: B 
+
+4-6. Which of the following can be used to navigate documents?
+A. frames
+B. hyperlinks
+C. web toolbar
+D. all of the above
+Answer: B 
+
+4-7. Which of the following can be used to divide a web page into areas?
+A. frames
+B. theme
+C. table of contents
+D. none of the above
+Answer: A 
+
+4-8. By default, Word automatically formats each heading in a table of contents as __________ 
+A. bookmarks
+B. cross-references
+C. hyperlinks
+D. word-fields
+Answer: C 
+
+4-9. The ability to combine name and addresses with a standard document is called _________ 
+A. document formatting
+B. database management
+C. mail merge
+D. form letters
+Answer: C 
+
+4-10. Which feature is used for monitoring all document changes?
+A. Edit Document
+B. Monitor Change
+C. Track Change
+D. Track all
+Answer: 10 â C
+
+
+multiple-choice-questions-of-microsoft-word-set-3
+
+3-2. Which key deletes the character to the left of the cursor?
+A. End
+B. Backspace 
+C. Home
+D. Delete
+Answer: C 
+
+3-3. Which key deletes the character to the right of the cursor?
+A. End
+B. Backspace
+C. Home
+D. Delete
+Answer: B 
+
+3-4. Which would you choose to save a document with a new name?
+A. Press Ctrl+S
+B. Click File, Save
+C. Click Tools, Options, Save
+D. Click File, Save As
+Answer: D 
+
+3-5. Which would you choose to move selected text from one place to another?
+A. Move and Paste
+B. Copy and Paste
+C. Cut and Paste
+D. Delete and Paste
+Answer: D 
+
+3-6. How do you magnify your document?
+A. View, Zoom
+B. Format, Font
+C. Tools, Options
+D. Tools, Customize
+Answer: C 
+
+3-7. Which enables you to move directly to specific location in a document?
+A. Subdocuments
+B. Bookmarks
+C. Cross-references
+D. Outlines
+Answer: A 
+
+3-8. What are inserted as cross-reference in Word?
+A. Placeholders
+B. Bookmarks
+C. Objects
+D. Word fields
+Answer: B 
+
+3-9. Which keystroke is used for updating a field?
+A. F6
+B. F9
+C. F11
+D. F12
+Answer: D 
+
+3-10. A master document contains_________, each of which contains a pointer to a file on a disk?
+A. Placeholders
+B. subdocuments
+C. bookmarks
+D. references
+Answer: B 
+
+ 
+Answer: B
+
+
+multiple-choice-questions-of-microsoft-word-set-2
+
+2-1. Single spacing in MS-WORD document causes ____ point line spacing?
+A. 10
+B. 12
+C. 14
+D. 16
+Answer: B 
+
+2-2. Which would you choose to display the statistics about a document?
+A. tools, word count
+B. insert, statistics
+C. tools, spelling and grammar
+D. tools, statistics
+Answer: A 
+
+2-3. Which feature do you use to create a newspaper like document?
+A. Bullets & numbering
+B. Tables
+C. Columns
+D. Tab stops
+Answer: C 
+
+2-4. Which would you choose to list Synonyms & Antonyms of a selected word?
+A. Tools, Spelling & Grammar
+B. Tools, Language
+C. Tools, Options
+D. Insert, Cross-reference
+Answer: B 
+
+2-5. Which language does MS-Word use to create Macros?
+A. Visual C++
+B. Visual Basic
+C. FoxPro
+D. Access
+Answer: B 
+
+2-6. What do you call ‘a collection of character and paragraph formatting commands’?
+A. the defaults
+B. a template
+C. a style
+D. a boilerplate
+Answer: C 
+
+2-7. In MS Word, Ctrl+S is for …..
+A. Scenarios
+B. Size
+C. Save
+D. Spelling Check
+Answer: C 
+
+2-8. Which key is used to increase left indent?
+A. Ctrl+I
+B. Ctrl+M
+C. Alt+I
+D. F10
+Answer: B 
+
+2-9. Which key is used to select all the text in the document?
+A. Ctrl+T
+B. Ctrl+A
+C. Ctrl+F
+D. Ctrl+N
+Answer: B 
+
+2-10. To undo the last work, press …..
+A. Ctrl+U
+B. Ctrl+Y
+C. Ctrl+Z
+D. Ctrl+W
+Answer: C
+
+
+multiple-choice-questions-of-microsoft-word-set-1
+
+1-1. Which option in File pull-down menu is used to close a file in MSWord?
+A. New
+B. Quit
+C. Close
+D. Exit
+Answer: C 
+
+1-2. Which bar is usually located below that Title Bar that provides categorized options?
+A. Menu bar
+B. Status Bar
+C. Tool bar
+D. Scroll bar
+Answer: A 
+
+1-3. Which of these toolbars allows changing of Fonts and their sizes?
+A. Standard
+B. Formatting
+C. Print Preview
+D. None of these
+Answer: B 
+
+1-4. Which key should be pressed to start a new paragraph in MS-Word?
+A. Down Cursor Key
+B. Enter Key
+C. Shift + Enter
+D. Ctrl + Enter
+Answer: B 
+
+1-5. Which menu in MSWord can be used to change character size and typeface?
+A. View
+B. Tools
+C. Format
+D. Data
+Answer: C 
+
+1-6. By default, on which page the header or the footer is printed?
+A. on first page
+B. on alternate page
+C. on every page
+D. none of the above
+Answer: C 
+
+1-7. In MS-Word, for what does ruler help?
+A. to set tabs
+B. to set indents
+C. to change page margins
+D. All of the above
+Answer: D 
+
+1-8. Using Find command in Word, we can search?
+A. characters
+B. formats
+C. symbols
+D. All of the above
+Answer: D 
+
+1-9. MS-Word automatically moves the text to the next line when it reaches the right edge of the screen and is called?
+A. Carriage Return
+B. Enter
+C. Word Wrap
+D. None of the above
+Answer: C 
+
+1-10. Selecting text means, selecting?
+A. a word
+B. an entire sentence
+C. whole document
+D. any of the above
+Answer: D

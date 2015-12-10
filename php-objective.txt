@@ -1,0 +1,217 @@
+
+
+multiple-choice-questions-of-php-set-3
+
+3-1. PHP is a ______ typed language.
+A. User
+B. Loosely
+C. Server
+D. System
+Answer: B 
+
+3-2. What does fopen() function do in PHP?
+A. It used to open files in PHP
+B. It used to open Remote Server      
+C. It used to open folders in PHP
+D. It used to open Remote Computer
+Answer: A 
+
+3-3. Where session_start() function must appear in PHP?
+A. Anywhere
+B. With <html> tag
+C. After <html>tag
+D. Before <html> tag
+Answer: D 
+
+3-4. What does the PHP Interpreter do?
+A. It translates User Language to System Language
+B. It creates connection between ISP & Server
+C. It processes the HTML and PHP files
+D. All of these
+Answer: C 
+
+3-5. Which of the following is used to add comments in PHP?
+A. //
+B. /* … */
+C. & … &
+D. Only A & B
+Answer: D 
+
+3-6. What does sprintf() function do in PHP?
+A. it sends output to a variable
+B. it prints the output of program
+C. it sends output to a variable converting into string
+D. it prints the output of program converting into string
+Answer: A 
+
+3-7. Variables are case-sensitive in PHP?
+A. True
+B. False
+Answer: A 
+
+3-8. Which function displays the information about PHP?
+A. info()
+B. sysinfo()
+C. phpinfo()
+D. php_info()
+Answer: C 
+
+3-9. What does isset() function do in PHP?
+A. There is no such function in PHP
+B. It checks whether variable is set or not
+C. It checks whether variable is free or not
+D. It checks whether variable is string or integer
+Answer: B 
+
+3-10. How PHP files can be accessed?
+A. Through Web Browser
+B. Through HTML files
+C. Through Web Server
+D. All of Above
+Answer: C
+
+
+multiple-choice-questions-of-php-set-2
+
+2-1. What is the use of strlen( ) function in PHP?
+A. It returns the type of a string
+B. It returns the value of a string
+C. It returns the length of a string
+D. It returns the subset value of a string
+Answer: C 
+
+2-2. Which of the following is the Concatenation Operator in PHP?
+A. + (Plus)
+B. . (dot)        
+C. & (Ampersand)
+D. % (Percentage)
+Answer: B 
+
+2-3. Which of the following is not PHP Loops?
+A. while
+B. do while
+C. for
+D. do for
+Answer: D 
+
+2-4. What is the use of strpos( ) function in PHP?
+A. Search for a number within a string
+B. Search for a Spaces within a string
+C. Search for a character/text within a string
+D. Search for a Capitalized string/text with in a string
+Answer: C 
+
+2-5. Where setcookie( ) function must appear in PHP?
+A. Before  tag
+B. After  tag
+C. In  tag
+D. Anywhere
+Answer: A 
+
+2-6. What does the hash (#) sign mean in PHP?
+A. It indicates lines that are commented out.
+B. It indicates variable declaration.
+C. It indicates function declaration.
+D. No uses in PHP.
+Answer: A 
+
+2-7. How to define a variable in PHP?
+A. $variable_name = value
+B. $variable_name = value;
+C. $variable_name == value;
+D. $variable_name as value;
+Answer: B 
+
+2-8. The uses of strcmp( ) function in PHP?
+A. It compare strings including case
+B. It compare strings excluding case
+C. It compare strings only Uppercase
+D. It compare strings only lowercase
+Answer: A 
+
+2-9. What will be the result of combining a string with another data type in PHP?
+A. int
+B. float
+C. string
+D. double
+Answer: C 
+
+2-10. Data for a cookie stored in _________ in PHP?
+A. In ISP Computer
+B. In User’s Computer
+C. In Server Computer
+D. It depends on PHP Coding
+Answer: B
+
+
+multiple-choice-questions-of-php-set-1
+
+1-1. PHP Stands for
+A. Php Hypertext Processor
+B. Php Hypertext Preprocessor
+C. Php Hypermarkup Preprocessor
+D. Php Hypermarkup Processor
+Answer: B 
+
+1-2. PHP is _______ scripting language.
+A. Server-side
+B. Clint-side      
+C. Middle-side
+D. Out-side
+Answer: A 
+
+1-3. PHP scripts are executed on _________
+A. ISP Computer
+B. Client Computer
+C. Server Computer
+D. It depends on PHP scripts
+Answer: C 
+
+1-4. PHP Scripts starts with ________
+A. <php> … </php>
+B. <?php …. ?>
+C. ?php … ?php
+D. <p> … </p>
+Answer: B 
+
+1-5. Which of the following statements prints in PHP?
+A. Out
+B. Write
+C. Echo
+D. Display
+Answer: C 
+
+1-6. In PHP, each statement must be end with ______
+A. . (dot)
+B. ; (semicolon)
+C. / (slash)
+D. : (colon)
+Answer: B 
+
+1-7. In PHP Language variables name starts with _____
+A. ! (Exclamation)
+B. & (Ampersand)
+C. * (Asterisk)
+D. $ (Dollar)
+Answer: D 
+
+1-8. In PHP Language variables are case sensitive
+A. True
+B. False
+C. Depends on website
+D. Depends on server
+Answer: A 
+
+1-9. In PHP a variable needs to be declare before assign
+A. True
+B. False
+C. Depends on website
+D. Depends on server
+Answer: B 
+
+1-10. Which of the following is not the scope of Variable in PHP?
+A. Local
+B. Global
+C. Static
+D. Extern
+Answer: D

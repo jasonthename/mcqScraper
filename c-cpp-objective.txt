@@ -1,0 +1,654 @@
+
+
+multiple-choice-questions-of-c-cpp-programming-language-set-9
+
+9-1 C/C++ program starts executing from
+A. here()
+B. main()
+C. start()
+D. begin()
+Answer: B 
+
+9-2 In CPP Programming ‘++’ is ________ operator
+A. Increment
+B. Decrement Â    Â  Â 
+C. Assigning
+D. Overloading
+Answer: A 
+
+9-3 In C++ Programming a pointer variable stores ________
+A. Value of anther Value
+B. Value of anther variable
+C. Address of another value
+D. Address of another variable 
+Answer: D 
+
+9-4 In C/CPP Programming array can be _________ 
+A. Single Dimensional
+B. Multi Dimensional
+C. Non Dimensional
+D. A & B 
+Answer: D 
+
+9-5 In C/CPP Programming an uninitialized variable may have 
+A. Null value
+B. Null String
+C. Garbage value
+D. zero value
+Answer: C 
+
+9-6 In C/CPP Programming which function is not related to file handling 
+A. fprintf();
+B. printf();
+C. fclose();
+D. fopen();
+Answer: B 
+
+9-7 In C/CPP Programming binary operator needs _______ operand.
+A. No operand
+B. One operand
+C. Two operand
+D. Three operand
+Answer: C 
+
+9-8 A function which invokes itself repeatedly until some condition is satisfied is called ___________ 
+A. Friend Function
+B. Virtual Function
+C. Recursive Function
+D. Overloading Function
+Answer: C 
+
+9-9 In C Programming which one of the following is string termination character? 
+A. â\0â
+B. â\nâ
+C. â\bâ
+D. â\tâ
+Answer: A 
+
+9-10 In C/CPP Programming array can be sorted by using 
+A. Quick Sort
+B. Bubble Sort
+C. Merge Sort
+D. All of above 
+Answer: D
+
+
+multiple-choice-questions-of-c-cpp-programming-language-set-8
+
+
+Answer: C 
+
+8-1. In C/CPP Programming strcmp() function is used for
+A. Convert String to Char
+B. Copy two Strings
+C. Compare two Strings
+D. None of these
+Answer: D 
+
+8-2. In C/CPP Programming  â\aâ is used for
+A. Form feed
+B. Line Brake
+C. Select All
+D. Alarm
+Answer: D 
+
+8-3. Which of the following is the correct statement?
+A. Variable name must start with underscore
+B. Variable name must have digit
+C. Variable name must have white space character
+D. Keyword can not be a variable name
+Answer: A 
+
+8-4. While coding in C/CPP Programming for “Call by Reference” we pass
+A. Address of variable
+B. Value of the variable
+C. Either Value or Address
+D. Both value and address
+Answer: C 
+
+8-5. Which of the following is the symbol for AND operator?
+A. ||
+B. &
+C. &&
+D. $$
+Answer: D 
+
+8-6. Which of the following is not the type of variable?
+A. Extrern
+B. Register
+C. Global
+D. None of above
+Answer: D 
+
+8-7. Which of the following is the incorrect statement?
+A. All array variables have same type
+B. An array is the collection of variables
+C. Array variables can be used individually
+D. None of these
+Answer: A 
+
+8-8. In C/CPP Programming array index is always starts from
+A. 0
+B. 1
+C. 2
+D. 3
+Answer: A 
+
+8-9. In C/CPP Programming a function can return 
+A. Single value
+B. Double Values
+C. Many values
+D. None of these
+Answer: D
+
+
+multiple-choice-questions-of-c-cpp-programming-language-set-7
+
+7-1 Which of the following is/are storage class
+A. Automatic
+B. Static
+C. Allocated
+D. All of Above
+Answer: D 
+
+7-2 What will the output of following code
+{
+int x = 10, y = 15;
+x = x++;
+y = ++y;           
+printf(“%d, %d \n”, x, y);
+}
+Answer: C 
+
+A. 10, 15
+B. 10, 16
+C. 11, 16
+D. 11, 15
+Answer: D 
+
+7-3 NULL Pointer can be used as
+A. To stop indirection in a recursive data structure
+B. As an error value
+C. As a sentinel Value
+D. All of Above
+Answer: D 
+
+7-4 Which one of the following is not the advantages of functions?
+A. Debugging is easier
+B. Testing is easier
+C. Recursive call is possible
+D. It consumes low disk space
+Answer: B 
+
+7-5 What is the result of the following statement?
+x = y = z = 0;
+Answer: D 
+
+A. x = 0, y = Null, z = Null
+B. x = 0, y = 0, z = 0
+C. x = 0, y = 1, z = 2
+D. the statement is incorrect
+Answer: A 
+
+7-6 What is the result of the following statement?
+X = 10;
+y = ++x;
+
+A. x = 10, y = 10
+B. x = 10, y = 11
+C. x = 11, y = 10
+D. x = 11, y = 11
+Answer: C 
+
+7-7 Which of the following statement creates infinite loop?
+A. for  (  ;  ;  )
+B. while (  ;  ;  )
+C. when (  ;  ;  )
+D. if(  ;  ;  )
+Answer: C 
+
+7-8 The use of “break” Statement
+A. to terminate a case in the switch statement
+B. to force immediate termination of a loop
+C. Both A & B
+D. Only A
+Answer: B
+
+
+multiple-choice-questions-of-c-cpp-programming-language-set-6
+
+6.1  What is the correct value to return to the operating system upon the successful completion of a program?
+A.  0
+B.  1
+C.  –1
+D.  Programs do not return a value.
+Answer: A 
+
+6.2  What is the only function all C++ programs must contain?
+A.  start()
+B.  program()       
+C.  system()
+D.  main()
+Answer: D 
+
+6.3  What punctuation is used to the beginning and end of code blocks?
+A.  BEGIN and END
+B.  ( and )
+C.  { and }
+D.  -> and <-
+Answer: C 
+
+6.4  What punctuation must be used to end lines of C++ code?
+A.  . (dot)
+B.  ‘ (single quote)
+C.  ; (semi-colon)
+D.  : (colon)
+Answer: C 
+
+6.5  Which of the following is a correct comment?
+A.  */ Comments */
+B.  /* Comment */
+C.  ** Comment **
+D.  { Comment }
+Answer: B 
+
+6.6  Which of the following is not a correct variable type?
+A.  double
+B.  float
+C.  int
+D.  real
+Answer: D 
+
+6.7  Which of the following is the correct operator to compare two variables?
+A.  =
+B.  ==
+C.  :=
+D.  equal
+Answer: B 
+
+6.8  Which of the following is the Boolean operator for logical and?
+A.  &
+B.  &&
+C.  |&
+D.  ||
+Answer: B 
+
+6.9  The directives for the preprocessors begin with
+A.  Ampersand symbol (&)
+B.  Less than symbol (<)
+C.  Two Slashes (//)
+D.  Number Sign (#)
+Answer: D 
+
+6.10  The file “iostream” includes
+A.  The streams of includes and outputs of program effect.
+B.  The declarations of the basic standard input-output library.
+C.  Both of these
+D.  None of these
+Answer: B
+
+
+multiple-choice-questions-of-c-cpp-programming-language-set-5
+
+5.1Â  By default, members of a C++ class are:
+a.Â  Private
+b.Â  Public
+c.Â  Protected
+d.Â  None of the above
+Answer: A 
+
+5.2Â  Which of the following statements is true in C++?
+a.Â  A struct cannot have member functions.
+b.Â  A struct cannot have private members. Â  Â Â 
+c.Â  The default access modifier of struct is public.
+d.Â  None of the above.
+Answer: C 
+
+5.3Â  C++ supports:
+a.Â  Multiple inheritance
+b.Â  Pointer to functions
+c.Â  Recursion
+d.Â  All of the above
+Answer: D 
+
+5.4Â  Which of the following is not a C++ keyword?
+a.Â  Extern
+b.Â  Auto
+c.Â  Inherits
+d.Â  None of the above
+Answer: C 
+
+5.5Â  Which of the following is not a bitwise operator?
+a.Â  &&
+b.Â  <<
+c.Â  ~
+d.Â  ^
+Answer: A 
+
+5.6Â  In C++, the expression 5/2 is evaluated to:
+a.Â  2.5
+b.Â  2
+c.Â  3
+d.Â  None of the above
+Answer: B 
+
+5.7Â  In C++, the string literal âC++â occupies exactly âŚâŚâŚ. of memory.
+a.Â  3 bytes
+b.Â  4 bytes
+c.Â  5 bytes
+d.Â  6 bytes
+Answer: B 
+
+5.8Â  In C++, generic functions are created using the keyword:
+a.Â  Generic
+b.Â  Template
+c.Â  Class
+d.Â  Type
+Answer: B 
+
+5.9Â  The implicit argument passed to a member function of a c++ class is called:
+a.Â  âimplicitâ pointer
+b.Â  âsenderâ object
+c.Â  âthisâ pointer
+d.Â  âmeâ object
+Answer: C 
+
+5.10Â  The default copy constructor performs:
+a.Â  Deep copy
+b.Â  Shallow copy
+c.Â  Hard copy
+d.Â  Soft copy
+Answer: B
+
+
+multiple-choice-questions-of-c-cpp-programming-language-set-4
+
+4.1Â  Which of the following function that must contain in all C++ programs?
+a. start()
+b. system()
+c. main()
+d. program()
+Answer: C 
+
+4.2Â  What punctuation must use to end the code C/C++ expression statement?
+a. . (dot)
+b. ; (semi-colon) Â  Â 
+c. : (colon)
+d. ‘ (single quote)
+Answer: B 
+
+4.3Â  What symbol must use to signal the begaining and ending of code blocks or compound statements?
+a. { }
+b. -> and <-
+c. BEGIN and END
+d. ( and )
+Answer: A 
+
+4.4Â  Which of the following is a correct comment for comment in C programs?
+a. */ Comments */
+b. ** Comment **
+c. /* Comment */
+d. { Comment }
+Answer: C 
+
+4.5Â  What value will return to the operating system upon the successful completion of a program?
+a. -1
+b. 1
+c. 0
+d. Programs do not return a value.
+Answer: C 
+
+4.6Â  Which one of the following is the correct operator to compare two variables?
+a. :=
+b. =
+c. equal
+d. ==
+Answer: D 
+
+4.7Â  Which one of the following is not a correct variable type in C++ programs?
+a. float
+b. real
+c. int
+d. double
+Answer: B 
+
+4.8Â  The directives for the preprocessors begin with
+a. Ampersand symbol (&)
+b. Two Slashes (//)
+c. Number Sign (#)
+d. Less than symbol (<)
+Answer: C 
+
+4.9Â  The header file iostream includes
+a. The declarations of the basic standard input-output library.
+b. The streams of includes and outputs of program effect.
+c. Both of these
+d. None of these
+Answer: A 
+
+4.10Â  Which one of the following is the boolean operator for logical and?
+a. &
+b. &&
+c. |
+d. |&
+Answer: B
+
+
+multiple-choice-questions-of-c-programming-language-set-3
+
+3.1 âCâ was primarily developed as a
+a. Systems Programing Language
+b. General Purpose Language
+c. Data Processing Language
+d. None of the above
+Answer: A 
+
+3.2 âCâ is a
+a. High Level Language
+b. Low Level Language Â Â 
+c. High Level Language with some low level features
+d. Low level language with some high level features
+Answer: C 
+
+3.3 Most suitable option for Â âCâ literalÂ is:
+a. a string
+b. a string constant
+c. a character
+d. an alphabet
+Answer: 3 â B 
+
+3.4 Length of the string âCorrectâ is
+a. 7
+b. 8
+c. 6
+d. implementation dependent
+Answer: A 
+
+3.5 Choose the correct statement
+a. An identifier may start with an underscore
+b. an identifier may end with an underscore
+c. IF is a valid identifier
+d. All of the above
+Answer: 5 â D 
+
+3.6 The âconstâ feature can be applied to
+a. an identifier
+b. an array
+c. an array argument
+d. All of the above
+Answer: 6 â D 
+
+3.7 Pick the operator that associate from the left
+a. +
+b. ,
+c. <
+d. All of the above
+Answer: D 
+
+3.8 Choose the correct statement
+a. Constant expressions are evaluated at compile time
+b. String constants can be concatenated at compile time
+c. Size of array must be known at compile time
+d. All of the above
+Answer: 8 â D 
+
+3.9 Pick the operator that associate from the right
+a. ?:
+b. +=
+c. =
+d. All of the above
+Answer: 9 â D 
+
+3.10 Which of the following comments about the â++â operator are correct?
+a. It is a unary operator
+b. It cannot be applied to an expression.
+c. It associates from the right.
+d. All of the above
+Answer: 10 â D
+
+
+multiple-choice-questions-of-c-programming-language-set-2
+
+2-1. A constructor is called whenever
+A.  a object is declared
+B.  an object is used
+C.  a class is declared
+D.  a class is used
+Answer: A 
+
+2-2. Overload function in C++
+A.  a group function with the same name
+B.  all have the same number and type of arguments 
+C.  functions with same name and same number and type of arguments
+D.  All of the above
+Answer: A 
+
+2-3. Operator overloading is 
+A.  making C++ operators works with objects
+B.  giving new meaning to existing C++ operators
+C.  making new C++ operator
+D.  both a & b above
+Answer: D 
+
+2-4. A constructor is called whenever
+A.  a object is declared
+B.  an object is used
+C.  a class is declared
+D.  a class is used
+Answer: A 
+
+2-5. A class having no name
+A.  is not allowed
+B.  can’t have a constructor
+C.  can’t have a destructor
+D.  can’t be passed as an argument
+Answer: C 
+
+2-6. The differences between constructors and destructor are
+A.  constructors can take arguments but destructor can’t
+B.  constructors can be overloaded but destructors can’t be overloaded
+C.  both a & b
+D.  None of these
+Answer: C 
+
+2-7. A destructor takes
+A.  one argument
+B.  two arguments
+C.  three arguments
+D.  Zero arguments
+Answer: D 
+
+2-8. Constructors are used to
+A.  initialize the objects
+B.  construct the data members
+C.  both a & b
+D.  None of These
+Answer: A 
+
+2-9. In C++ a function contained within a class is called
+A.  a member function
+B.  an operator
+C.  a class function
+D.  a method
+Answer: A 
+
+2-10. The fields in a class of a C++ program are by default
+A.  protected
+B.  public
+C.  private
+D.  None of these
+Answer: C
+
+
+multiple-choice-questions-of-c-cpp-programming-language-set-1
+
+1-1. C++ was originally developed by
+A.  Nicolas Wirth
+B.  Donald Knuth
+C.  Bjarne Stroustrup
+D.  Ken Thompson
+Answer: C 
+
+1-2. The standard C++ comment
+A.  /
+B.  // 
+C.  /* and */
+D.  None of these
+Answer: B 
+
+1-3. The preprocessor directive #include is required if
+A.  Console output is used
+B.  Console input is used
+C.  Both console input and output is used
+D.  None of these
+Answer: C 
+
+1-4. The operator << is called
+A.  an insertion operator
+B.  put to operator
+C.  either a or b
+D.  None of these
+Answer: C 
+
+1-5. The operator >> is called
+A.  an extraction operator
+B.  a get from operator
+C.  either a or b
+D.  get to operator
+Answer: C 
+
+1-6. The C++ symbol <<
+A.  perform the action of sending the value of expression listed as its right to the
+outputs strewn as the left.
+B.  is used to indicate the action from right to left
+C.  is adopted to resemble an arrow
+D.  All of above
+Answer: D 
+
+1-7. When a language has the capability to produce new data type, it is called
+A.  Extensible
+B.  Overloaded
+C.  Encapsulated
+D.  Reprehensible
+Answer: A 
+
+1-8. C++ name was suggested by
+A.  Rrick Mascitti
+B.  Bjarne Stroustrup
+C.  Donald Knuth
+D.  Ken Thompson
+Answer: A 
+
+1-9. What is a reference?
+A.  an operator
+B.  a reference is an alias for an object
+C.  used to rename an object
+D.  None of these
+Answer: B 
+
+1-10. State the object oriented languages
+A.  C++
+B.  Java
+C.  Eiffel
+D.  All of the above
+Answer: D
